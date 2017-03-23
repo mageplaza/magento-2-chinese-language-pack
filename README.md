@@ -120,9 +120,15 @@ Contribute to this language at https://crowdin.com/project/magento-2/zh-CN
 - Magento v2.0.6
 - Magento v2.0.7
 - Magento v2.0.8
+- Magento v2.0.9
+- Magento v2.0.10
+- Magento v2.0.11
 - Magento v2.1.0
 - Magento v2.1.1
 - Magento v2.1.2
+- Magento v2.1.3
+- Magento v2.1.4
+- Magento v2.1.5
 
 
 

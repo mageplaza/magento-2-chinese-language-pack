@@ -1434,7 +1434,7 @@ Websites,网站,module,Magento_Catalog
 "Price Alert Subscriptions",价格警报订阅,module,Magento_Catalog
 "Stock Alert Subscriptions",股票的警报订阅,module,Magento_Catalog
 "There are no customers for this alert.",没有客户此警报。,module,Magento_Catalog
-"First Name",姓,module,Magento_Catalog
+"First Name",名,module,Magento_Catalog
 "Last Name",姓,module,Magento_Catalog
 Email,邮箱,module,Magento_Catalog
 "Subscribe Date",订阅日期,module,Magento_Catalog
@@ -3264,11 +3264,11 @@ Comparable,可比性,module,Magento_ConfigurableProductStaging
 "We can't process your request right now. Sorry, that's all we know.",我们现在无法处理您的请求。对不起，我们都知道。,module,Magento_Contact
 "* Required Fields",*必要字段,module,Magento_Contact
 "Write Us",给我们写信,module,Magento_Contact
-"Jot us a note and we’ll get back to you as quickly as possible.",我们记笔记，我们会尽可能快地回到你。,module,Magento_Contact
+"Jot us a note and we’ll get back to you as quickly as possible.",我们会及时与您取得联系,module,Magento_Contact
 Name,名字,module,Magento_Contact
 Email,邮箱,module,Magento_Contact
 "Phone Number",电话号码,module,Magento_Contact
-"What’s on your mind?",您的想法是什么?,module,Magento_Contact
+"What’s on your mind?",您的留言,module,Magento_Contact
 Submit,提交,module,Magento_Contact
 "Contact Form","Contact Form",module,Magento_Contact
 "Name: %name","名称: %name",module,Magento_Contact
@@ -3724,7 +3724,7 @@ Password,密码,module,Magento_Customer
 "Forgot Your Password?",您忘记密码了吗?,module,Magento_Customer
 "Subscription option",订阅选项,module,Magento_Customer
 "General Subscription",一般的订阅,module,Magento_Customer
-"Sign Up for Newsletter",校刊订阅,module,Magento_Customer
+"Sign Up for Newsletter",订阅资讯,module,Magento_Customer
 "Address Information",地址信息,module,Magento_Customer
 "Sign-in Information",登录信息,module,Magento_Customer
 "Confirm Password",确认密码,module,Magento_Customer
@@ -3870,7 +3870,7 @@ ZIP,邮编,module,Magento_Customer
 "Billing Firstname",计费名字,module,Magento_Customer
 "Billing Lastname",姓氏计费,module,Magento_Customer
 "Account Lock","Account Lock",module,Magento_Customer
-"First Name",姓,module,Magento_Customer
+"First Name",名,module,Magento_Customer
 "Last Name",姓,module,Magento_Customer
 "Last Activity",最后一次活动,module,Magento_Customer
 Type,类型,module,Magento_Customer
@@ -4081,7 +4081,7 @@ Email,邮箱,module,Magento_CustomerCustomAttributes
 "No Password","No Password",module,Magento_CustomerCustomAttributes
 "Confirm New Password",确认新密码,module,Magento_CustomerCustomAttributes
 "Personal Information",个人信息,module,Magento_CustomerCustomAttributes
-"Sign Up for Newsletter",校刊订阅,module,Magento_CustomerCustomAttributes
+"Sign Up for Newsletter",订阅资讯,module,Magento_CustomerCustomAttributes
 "Address Information",地址信息,module,Magento_CustomerCustomAttributes
 "Sign-in Information",登录信息,module,Magento_CustomerCustomAttributes
 Password,密码,module,Magento_CustomerCustomAttributes
@@ -5469,7 +5469,7 @@ Edit,编辑,module,Magento_GiftRegistry
 "You haven't created a gift registry yet.",您还没有创建礼品登记。,module,Magento_GiftRegistry
 "Add New",新加,module,Magento_GiftRegistry
 Remove,删除,module,Magento_GiftRegistry
-"First Name",姓,module,Magento_GiftRegistry
+"First Name",名,module,Magento_GiftRegistry
 Name,名字,module,Magento_GiftRegistry
 Email,邮箱,module,Magento_GiftRegistry
 "* Required Fields",*必要字段,module,Magento_GiftRegistry
@@ -6083,7 +6083,7 @@ Link,链接,module,Magento_Invitation
 "Invitee Information",受邀者信息,module,Magento_Invitation
 "Customer ID","客户 ID",module,Magento_Invitation
 "Customer Group",客户组,module,Magento_Invitation
-"First Name",姓,module,Magento_Invitation
+"First Name",名,module,Magento_Invitation
 "Last Name",姓,module,Magento_Invitation
 "Sign Up At",签约,module,Magento_Invitation
 "Inviter Information",邀请人信息,module,Magento_Invitation
@@ -6460,7 +6460,7 @@ Back,后退,module,Magento_MultipleWishlist
 "Copy to Wish List",复制到收藏清单,module,Magento_MultipleWishlist
 "Search Options",搜索选项,module,Magento_MultipleWishlist
 "Required Fields",必填的字段,module,Magento_MultipleWishlist
-"First Name",姓,module,Magento_MultipleWishlist
+"First Name",名,module,Magento_MultipleWishlist
 "Last Name",姓,module,Magento_MultipleWishlist
 Search,搜索,module,Magento_MultipleWishlist
 "Search Results",搜索结果,module,Magento_MultipleWishlist
@@ -6945,7 +6945,7 @@ No,否,module,Magento_Payment
 "Billing Agreements",结算协议,module,Magento_Paypal
 ID,ID,module,Magento_Paypal
 Email,邮箱,module,Magento_Paypal
-"First Name",姓,module,Magento_Paypal
+"First Name",名,module,Magento_Paypal
 "Last Name",姓,module,Magento_Paypal
 "Reference ID","引用 ID",module,Magento_Paypal
 Status,状态,module,Magento_Paypal
@@ -7994,7 +7994,7 @@ Updated,已更新,module,Magento_Reports
 "IP Address","IP 地址",module,Magento_Reports
 Customers,客户,module,Magento_Reports
 ID,ID,module,Magento_Reports
-"First Name",姓,module,Magento_Reports
+"First Name",名,module,Magento_Reports
 "Last Name",姓,module,Magento_Reports
 "Items in Cart",购物车中,module,Magento_Reports
 "Products in carts",在车中的产品,module,Magento_Reports
@@ -9268,7 +9268,7 @@ City,城市,module,Magento_Sales
 Company,地址,module,Magento_Sales
 Country,国家,module,Magento_Sales
 Email,邮箱,module,Magento_Sales
-"First Name",姓,module,Magento_Sales
+"First Name",名,module,Magento_Sales
 "Last Name",姓,module,Magento_Sales
 State/Province,州/省,module,Magento_Sales
 "Street Address",街道地址,module,Magento_Sales
@@ -11697,7 +11697,7 @@ Roles,角色,module,Magento_User
 "Role Users",角色用户,module,Magento_User
 "User ID","用户 ID",module,Magento_User
 "User Name",用户名称,module,Magento_User
-"First Name",姓,module,Magento_User
+"First Name",名,module,Magento_User
 "Last Name",姓,module,Magento_User
 Email,邮箱,module,Magento_User
 Status,状态,module,Magento_User

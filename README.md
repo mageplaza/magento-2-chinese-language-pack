@@ -37,6 +37,9 @@ Install the Chinese language pack via composer is never easier.
 composer require mageplaza/magento-2-chinese-language-pack:dev-master
 php bin/magento cache:clean
 php bin/magento setup:static-content:deploy zh_CN
+php bin/magento indexer:reindex
+php bin/magento cache:clean
+php bin/magento cache:flush
 
 ```
 
@@ -47,6 +50,9 @@ php bin/magento setup:static-content:deploy zh_CN
 composer update mageplaza/magento-2-chinese-language-pack:dev-master
 php bin/magento cache:clean
 php bin/magento setup:static-content:deploy zh_CN
+php bin/magento indexer:reindex
+php bin/magento cache:clean
+php bin/magento cache:flush
 
 ```
 

@@ -2725,6 +2725,7 @@ Payment,付款,module,Magento_Checkout
 "Not yet calculated",尚未计算,module,Magento_Checkout
 "We received your order!",我们收到您的订单!,module,Magento_Checkout
 "Thank you for your purchase!",感谢您的购买！,module,Magento_Checkout
+"Go to Checkout",去结帐,module,Magento_Checkout
 "Terms and Conditions",条款和条件,module,Magento_CheckoutAgreements
 "Add New Condition",添加新的条件,module,Magento_CheckoutAgreements
 "Save Condition",保存条件,module,Magento_CheckoutAgreements

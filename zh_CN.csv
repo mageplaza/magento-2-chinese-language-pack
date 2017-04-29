@@ -2726,6 +2726,9 @@ Payment,付款,module,Magento_Checkout
 "We received your order!",我们收到您的订单!,module,Magento_Checkout
 "Thank you for your purchase!",感谢您的购买！,module,Magento_Checkout
 "Go to Checkout",去结帐,module,Magento_Checkout
+"View and edit cart",查看和编辑购物车,module,Magento_Checkout
+"Item in Cart",购物里的商品,module,Magento_Checkout
+"Items in Cart",购物里的商品,module,Magento_Checkout
 "Terms and Conditions",条款和条件,module,Magento_CheckoutAgreements
 "Add New Condition",添加新的条件,module,Magento_CheckoutAgreements
 "Save Condition",保存条件,module,Magento_CheckoutAgreements
@@ -6307,6 +6310,7 @@ Partners,合作伙伴,module,Magento_Marketplace
 "Read More",阅读更多,module,Magento_Marketplace
 "Partner Page",合作伙伴页,module,Magento_Marketplace
 "No partners were found",没有伙伴被发现,module,Magento_Marketplace
+"Find Partners & Extensions","Find Partners & Extensions",module,Magento_Marketplace
 Synchronize,同步,module,Magento_MediaStorage
 "Synchronizing %1 to %2","同步到 %2 %1",module,Magento_MediaStorage
 Synchronizing...,正在同步...,module,Magento_MediaStorage

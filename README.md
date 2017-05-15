@@ -19,7 +19,6 @@ Below are two active buttons which are required operations before installing the
 
 - [Download .zip](https://github.com/mageplaza/magento-2-chinese-language-pack/archive/master.zip)
 - [Download .tar.gz](https://github.com/mageplaza/magento-2-chinese-language-pack/tarball/master)
-- [Copy & paste package](https://crowdin.com/project/magento-2/zh-CN.zip)
 
 
 Find other [language packs here]({https://www.mageplaza.com/kb/magento-2-language-pack/)
@@ -58,7 +57,7 @@ php bin/magento cache:flush
 
 #### Authentication required (Optional)
 
-[Authentication required](https://i.imgur.com/dmryiPk.png)
+![Authentication required](https://i.imgur.com/dmryiPk.png)
 
 If you have not added this authentication, you can follow [this guide](http://devdocs.magento.com/guides/v2.0/install-gde/prereq/connect-auth.html)
 
@@ -117,8 +116,8 @@ Now time to active the language pack for your Magento 2 store. From Magento 2 ad
 ![{{Magento 2 Chinese language pack}}](https://i.imgur.com/aPSUA0l.png)
 
 
-## Translation process of Chinese Language Pack
-![process](http://progressed.io/bar/80)
+<!-- ## Translation process of Chinese Language Pack
+![process](http://progressed.io/bar/80) -->
 
 Contribute to this language at https://crowdin.com/project/magento-2/zh-CN
 
@@ -154,6 +153,8 @@ Contribute to this language at https://crowdin.com/project/magento-2/zh-CN
 - Language packages built by [Mageplaza team](https://www.mageplaza.com/)
 
 
-References:
+## References:
+
 - https://www.mageplaza.com/magento-2-chinese-language-pack.html
 - https://www.mageplaza.com/kb/magento-2-language-pack/
+- https://crowdin.com/project/magento-2

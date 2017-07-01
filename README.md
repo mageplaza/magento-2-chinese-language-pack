@@ -137,6 +137,8 @@ Contribute to this language at https://crowdin.com/project/magento-2/zh-CN
 - Magento v2.0.11
 - Magento v2.0.12
 - Magento v2.0.13
+- Magento v2.0.14
+- Magento v2.0.15
 - Magento v2.1.0
 - Magento v2.1.1
 - Magento v2.1.2
@@ -144,6 +146,7 @@ Contribute to this language at https://crowdin.com/project/magento-2/zh-CN
 - Magento v2.1.4
 - Magento v2.1.5
 - Magento v2.1.6
+- Magento v2.1.7
 
 
 

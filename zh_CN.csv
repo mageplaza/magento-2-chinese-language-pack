@@ -9209,7 +9209,7 @@ Title,标题,module,Magento_Sales
 Number,数字,module,Magento_Sales
 "We found an invalid renderer model.",我们发现无效渲染器模型。,module,Magento_Sales
 "Please define the PDF object before using.","请在使用前定义 PDF 对象。",module,Magento_Sales
-"We don't recognize the draw line data. Please define the ""lines"" array.","We don't recognize the draw line data. Please define the ""lines"" array.",module,Magento_Sales
+"We don't recognize the draw line data. Please define the ""lines"" array.","我们不认识画线数据。请定义""线""数组。",module,Magento_Sales
 Products,产品展示,module,Magento_Sales
 "Total (ex)","共有 (ex)",module,Magento_Sales
 Qty,数量,module,Magento_Sales

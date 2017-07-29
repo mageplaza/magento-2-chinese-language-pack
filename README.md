@@ -54,7 +54,7 @@ php bin/magento cache:flush
 
 #### Authentication required (Optional)
 
-![Authentication required](https://i.imgur.com/dmryiPk.png)
+![Authentication required](https://cdn.mageplaza.com/media/general/dmryiPk.png)
 
 If you have not added this authentication, you can follow [this guide](http://devdocs.magento.com/guides/v2.0/install-gde/prereq/connect-auth.html)
 
@@ -110,7 +110,7 @@ Follow this guide to [Flush Cache on your Magento 2 store](https://www.mageplaza
 ## How to active language pack
 
 Now time to active the language pack for your Magento 2 store. From Magento 2 admin panel, navigate to `Stores > Configuration > General > Locale Options`
-![{{Magento 2 Chinese language pack}}](https://i.imgur.com/aPSUA0l.png)
+![{{Magento 2 Chinese language pack}}](https://cdn.mageplaza.com/media/general/aPSUA0l.png)
 
 
 <!-- ## Translation process of Chinese Language Pack

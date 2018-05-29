@@ -76,7 +76,7 @@ Unzip the Chinese language pack to Magento 2 root folder. In this guide, we extr
 Your Magento 2 root folder can be: `/home/account_name/yourstore.com/public_html/`
 
 ```
-unzip fr.zip app/code/Mageplaza/zh_hans_cn
+unzip fr.zip app/i18n/Mageplaza/zh_hans_cn
 ```
 
 You also can unzip locally and upload them to Magento 2 root folder.
@@ -111,11 +111,13 @@ Now time to active the Chinese language pack for your Magento 2 store. From Mage
 
 
 ## 4. How to contribute
-<!-- ![process](http://progressed.io/bar/80) -->
 
 Contribute to this language at https://crowdin.com/project/magento-2/zh-CN
 
-## Supported Magento versions
+## 5. Supported Magento versions
+
+It supports all Magento 2 versions include [Magento 2 Open-source](https://www.mageplaza.com/download-magento/), Magento 2 Commerce.
+
 
 - Magento v2.0.x
 - Magento v2.1.x
@@ -123,21 +125,20 @@ Contribute to this language at https://crowdin.com/project/magento-2/zh-CN
 
 
 
-## Note
+## 6. Note
 
 - This project automatically updates weekly from Crowdin.
 - Any question, issue please [create a new issue](https://github.com/mageplaza/magento-2-chinese-language-pack/issues/new)
 
-## Language package authors
+## 7. Language package authors
 
 - [Magento official translations project for Magento 2](https://crowdin.com/project/magento-2)
 - Language packages built by [Mageplaza team](https://www.mageplaza.com/)
 
 
-## References:
+## 8. References:
 
 - https://www.mageplaza.com/magento-2-chinese-language-pack.html
-- https://www.mageplaza.com/kb/magento-2-language-pack/
 - https://crowdin.com/project/magento-2
 
 

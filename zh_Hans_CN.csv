@@ -24,7 +24,7 @@ Remove,删除,module,Magento_AdminNotification
 "Messages Inbox",消息收件箱,module,Magento_AdminNotification
 "You have %1 new system messages","你有 %1 新系统消息",module,Magento_AdminNotification
 "You have %1 new system message","你有 %1 新系统消息",module,Magento_AdminNotification
-"Incoming Message",接受消息,module,Magento_AdminNotification
+"Incoming Message",收到消息,module,Magento_AdminNotification
 close,关闭,module,Magento_AdminNotification
 Notifications,通知消息,module,Magento_AdminNotification
 "The message has been marked as Read.",邮件已标记为已读。,module,Magento_AdminNotification
@@ -896,7 +896,7 @@ Backup,备份,module,Magento_Backup
 "We can't delete one or more backups.",我们不能删除一个或多个备份。,module,Magento_Backup
 failed,失败,module,Magento_Backup
 successful,成功,module,Magento_Backup
-"You deleted the selected backup(s).","删除所选的 backup(s)。",module,Magento_Backup
+"You deleted the selected backup(s).",删除所选的备份文件。,module,Magento_Backup
 "Can't load snapshot archive",无法加载快照存档,module,Magento_Backup
 "Please correct the password.",请更正密码。,module,Magento_Backup
 "To complete the rollback, please deselect ""Put store into maintenance mode"" or update your permissions.","若要完成回滚，请取消选择""置于维护模式存储""或更新您的权限。",module,Magento_Backup
@@ -907,7 +907,7 @@ successful,成功,module,Magento_Backup
 "Failed to rollback.",无法回退。,module,Magento_Backup
 Database,数据库,module,Magento_Backup
 "Database and Media",数据库和媒体,module,Magento_Backup
-"System (excluding Media)","系统 (不含介质)",module,Magento_Backup
+"System (excluding Media)","系统 (不含媒体)",module,Magento_Backup
 "You created the system backup.",您创建的系统备份。,module,Magento_Backup
 "You created the system backup (excluding media).","创建系统备份 (不包括媒体)。",module,Magento_Backup
 "You created the database and media backup.",您创建了数据库和媒体备份。,module,Magento_Backup
@@ -8306,6 +8306,7 @@ Action,操作,module,Magento_Reports
 Report,报告,module,Magento_Reports
 Description,描述,module,Magento_Reports
 undefined,未定义,module,Magento_Reports
+"Item in Cart",购物里的商品,module,Magento_Reports
 "Save Review",保存评价,module,Magento_Review
 "New Review",新的审查,module,Magento_Review
 "Review Details",查看详细信息,module,Magento_Review

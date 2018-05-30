@@ -105,18 +105,21 @@ Follow this guide to [Flush Cache on your Magento 2 store](https://www.mageplaza
 
 
 ## 3. How to active Chinese language pack
-
+O
 Now time to active the Chinese language pack for your Magento 2 store. From Magento 2 admin panel, navigate to `Stores > Configuration > General > Locale Options`
 ![{{Magento 2 Chinese language pack}}](https://cdn.mageplaza.com/media/general/aPSUA0l.png)
 
 
 ## 4. How to contribute
 
+This language pack has been translated 
+![language pack](http://progressed.io/bar/80)
+
 Contribute to this language at https://crowdin.com/project/magento-2/zh-CN
 
 ## 5. Supported Magento versions
 
-It supports all Magento 2 versions include [Magento 2 Open-source](https://www.mageplaza.com/download-magento/), Magento 2 Commerce.
+It supports all Magento 2 versions include [Magento 2 pen-source](https://www.mageplaza.com/download-magento/), Magento 2 Commerce.
 
 
 - Magento v2.0.x
@@ -151,20 +154,22 @@ It supports all Magento 2 versions include [Magento 2 Open-source](https://www.m
 ## Mageplaza extensions on Magento Marketplace, Github
 
 
+- [Layered Navigation](https://marketplace.magento.com/mageplaza-layered-navigation-m2.html)
+- [One Step Checkout](https://marketplace.magento.com/mageplaza-magento-2-one-step-checkout-extension.html)
+- [SMTP](https://marketplace.magento.com/mageplaza-module-smtp.html) ; [SMTP on Github](https://github.com/mageplaza/magento-2-smtp)
+- [Blog](https://github.com/mageplaza/magento-2-blog)
+- [Security](https://marketplace.magento.com/mageplaza-module-security.html)
+- [Social Login](https://github.com/mageplaza/magento-2-social-login)
 
-☞ [Blog](https://github.com/mageplaza/magento-2-blog)
+- [SEO](https://github.com/mageplaza/magento-2-seo) ; [SEO on Marketplace](https://marketplace.magento.com/mageplaza-magento-2-seo-extension.html)
 
-☞ [Social Login](https://github.com/mageplaza/magento-2-social-login)
+- [SMTP](https://github.com/mageplaza/magento-2-smtp)
 
-☞ [SEO](https://github.com/mageplaza/magento-2-seo)
+- [Product Slider](https://github.com/mageplaza/magento-2-product-slider)
 
-☞ [SMTP](https://github.com/mageplaza/magento-2-smtp)
+- [Banner](https://github.com/mageplaza/magento-2-banner-slider)
 
-☞ [Product Sliderthub](https://github.com/mageplaza/magento-2-product-slider)
-
-☞ [Banner](https://github.com/mageplaza/magento-2-banner-slider)
-
-☞ [Sample Payment Method](https://github.com/mageplaza/magento-2-sample-payment-method)
+- [Sample Payment Method](https://github.com/mageplaza/magento-2-sample-payment-method)
 
 
 

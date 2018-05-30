@@ -112,7 +112,7 @@ Now time to active the Chinese language pack for your Magento 2 store. From Mage
 
 ## 4. How to contribute
 
-![language pack](http://progressed.io/bar/{{process}}?title=translated)
+![language pack](http://progressed.io/bar/98?title=translated)
 
 Contribute to this language at https://crowdin.com/project/magento-2/zh-CN
 

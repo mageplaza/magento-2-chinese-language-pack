@@ -17,11 +17,11 @@ Read more [Magento 2 Chinese Language Pack](https://www.mageplaza.com/magento-2-
 
 This is status of Chinese Language Pack, you can see how many percentage of this project has been done.
 
-![language pack](http://progressed.io/bar/92?title=translated)
+![language pack](http://progressed.io/bar/85?title=translated)
 
 It is not fully translated? Feel free to contribute:
 - [On Crowdin](https://crowdin.com/project/magento-2): It takes time to approve your contribution by Magento team.
-- [On Github])(https://github.com/mageplaza/magento-2-chinese-language-pack/blob/master/HOW-TO-CONTRIBUTE.md): It's faster, our team will approve it after you send pull request.
+- [On Github](https://github.com/mageplaza/magento-2-chinese-language-pack/blob/master/HOW-TO-CONTRIBUTE.md): It's faster, our team will approve it after you send pull request.
 
 
 Find other [language packs here](https://www.mageplaza.com/kb/magento-2-language-pack/)

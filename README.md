@@ -60,7 +60,7 @@ php bin/magento cache:flush
 
 If you have not added this authentication, you can follow [this guide](http://devdocs.magento.com/guides/v2.0/install-gde/prereq/connect-auth.html)
 
-Or use this keys:
+Or use these keys:
 
 ```
 Public Key: c7af1bfc9352e9c986637eec85ed53af

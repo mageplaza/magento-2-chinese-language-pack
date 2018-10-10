@@ -16,9 +16,9 @@ Let's me explain the workflow:
 
 - [github_contributions.csv](https://github.com/mageplaza/magento-2-chinese-language-pack/blob/master/github_contributions.csv) has been contributed by Mageplaza and Magento community.
 
-- We will merge github_contributions.csv with [zh_Hans_CN.csv](https://github.com/mageplaza/magento-2-chinese-language-pack/blob/master/zh_Hans_CN.csv). Your Magento 2 store will use this csv file.
+- We will merge `github_contributions.csv` with [zh_Hans_CN.csv](https://github.com/mageplaza/magento-2-chinese-language-pack/blob/master/zh_Hans_CN.csv). Your Magento 2 store will use this csv file.
 
-So, you should contribute to `github_contributions.csv` file.
+So, you should contribute to [github_contributions.csv](https://github.com/mageplaza/magento-2-chinese-language-pack/blob/master/github_contributions.csv) file.
 
 ### How to edit file github_contributions.csv
 
@@ -44,7 +44,11 @@ Fom the begining, `github_contributions.csv` is empty, you guys should add more 
 - Now time to contribute, **commit your work** to this repo.
 - After commit, it will ask you to **create a pull request**, so please create a pull request then will check and approve it.
 
+
+
 You can [install this language package via composer](https://github.com/mageplaza/magento-2-chinese-language-pack#-method-1-composer-method-recommend) and other people can install / contribute this language pack.
+
+[Contact us](https://www.mageplaza.com/contact.html) if we miss your pull request(s) ;)
 
 Happy translating!
 

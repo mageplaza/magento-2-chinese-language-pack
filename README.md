@@ -7,13 +7,13 @@ Read more [Magento 2 Chinese Language Pack](https://www.mageplaza.com/magento-2-
 
 ## Overview
 
-- 1. Language Package Process
-- 2. Install Chinese Language Pack
-- 3. How to active Chinese language pack
-- 4. How to contribute
-- 5. Supported Magento versions
+1. [Language Package Process](#process)
+2. [Install Chinese Language Pack](#install)
+3. [How to active Chinese language pack](#active)
+4. [How to contribute](#contribute)
+5. [Supported Magento versions](#support)
 
-## 1. Language Package Process
+## 1. Language Package Process{#process}
 
 This is status of Chinese Language Pack, you can see how many percentage of this project has been done.
 
@@ -26,7 +26,7 @@ It is not fully translated? Feel free to contribute:
 
 Find other [language packs here](https://www.mageplaza.com/kb/magento-2-language-pack/)
 
-## 2. How to Install Chinese Language Pack
+## 2. How to Install Chinese Language Pack{#install}
 
 There are 3 different methods to install this language pack.
 
@@ -57,6 +57,14 @@ php bin/magento cache:flush
 ![Authentication required](https://cdn.mageplaza.com/media/general/dmryiPk.png)
 
 If you have not added this authentication, you can follow [this guide](http://devdocs.magento.com/guides/v2.0/install-gde/prereq/connect-auth.html)
+
+Or use this keys:
+
+```
+Public Key: c7af1bfc9352e9c986637eec85ed53af
+Private Key: 17e1b72ea5f0b23e9dbfb1f68dc12b53
+```
+
 
 
 ### ✓ Method #2. Copy & Paste method (Not recommended)
@@ -107,17 +115,20 @@ Unzip the compressed file and upload file `zh_Hans_CN.zip` into `app/i18n/magepl
 Follow this guide to [Flush Cache on your Magento 2 store](https://www.mageplaza.com/kb/how-flush-enable-disable-cache.html)
 
 
-## 3. How to active Chinese language pack
+## 3. How to active Chinese language pack{#active}
 
 Now time to active the Chinese language pack for your Magento 2 store. From Magento 2 admin panel, navigate to `Stores > Configuration > General > Locale Options`
 ![{{Magento 2 Chinese language pack}}](https://cdn.mageplaza.com/media/general/aPSUA0l.png)
 
 
-## 4. How to contribute
+## 4. How to contribute{#contribute}
 
-Contribute to this language at https://crowdin.com/project/magento-2/zh-CN
+Contribute to this language at :
+- [On Crowdin](https://crowdin.com/project/magento-2): It takes time to approve your contribution by Magento team.
+- [On Github](https://github.com/mageplaza/magento-2-chinese-language-pack/blob/master/HOW-TO-CONTRIBUTE.md): It's faster, our team will approve it after you send pull request.
 
-## 5. Supported Magento versions
+
+## 5. Supported Magento versions{#support}
 
 It supports all Magento 2 versions include [Magento 2 open-source](https://www.mageplaza.com/download-magento/), Magento 2 Commerce.
 
@@ -128,14 +139,15 @@ It supports all Magento 2 versions include [Magento 2 open-source](https://www.m
 
 
 
-## 6. Note
+## 6. Notes{#important-notes}
 
 - This project automatically updates weekly from Crowdin.
 - Any question, issue please [create a new issue](https://github.com/mageplaza/magento-2-chinese-language-pack/issues/new)
 
-## 7. Language package authors
+## 7. Language package authors{#authors}
 
 - [Magento official translations project for Magento 2](https://crowdin.com/project/magento-2)
+- Magento Community
 - Language packages built by [Mageplaza team](https://www.mageplaza.com/)
 
 

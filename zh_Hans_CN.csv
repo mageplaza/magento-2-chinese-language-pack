@@ -95,10 +95,10 @@
 "Wish List (%1)","收藏夹 (%1)",module,Magento_AdvancedCheckout
 "Apply","应用",module,Magento_AdvancedCheckout
 "Configure","配置",module,Magento_AdvancedCheckout
-"Add to Order by SKU","根据商品编号 SKU 添加到订单",module,Magento_AdvancedCheckout
+"Add to Order by SKU","根据商品编号SKU添加到订单",module,Magento_AdvancedCheckout
 "Add to Order","添加到订单",module,Magento_AdvancedCheckout
 "Add Products to Order","将产品添加到订单",module,Magento_AdvancedCheckout
-"<span><span id=""sku-attention-num"">%1</span> product(s) require attention.</span>","<span><span id=""sku-attention-num"">%1</span> 产品可以关注。</span>",module,Magento_AdvancedCheckout
+"<span><span id=""sku-attention-num"">%1</span> product(s) require attention.</span>","<span><span id=""sku-attention-num"">%1</span> 产品需要注意。</span>",module,Magento_AdvancedCheckout
 "Remove All","删除所有",module,Magento_AdvancedCheckout
 "Only %1%2%3 left in stock","仓库中只余有 %1%2%3",module,Magento_AdvancedCheckout
 "You can buy up to %1 of these per purchase.","每次购买，您最多可以购买 %1。",module,Magento_AdvancedCheckout
@@ -1065,8 +1065,8 @@
 "Cancel","取消",module,Magento_Banner
 "Add Selected","添加所选项目",module,Magento_Banner
 "Remove","移除",module,Magento_Banner
-"All Segments","All Segments",module,Magento_BannerCustomerSegment
-"Customer Segment","Customer Segment",module,Magento_BannerCustomerSegment
+"All Segments","所有线段",module,Magento_BannerCustomerSegment
+"Customer Segment","客户细分",module,Magento_BannerCustomerSegment
 "Country","国家",module,Magento_Braintree
 "Allowed Credit Card Types","允许的信用卡类型",module,Magento_Braintree
 "Add Rule","添加规则",module,Magento_Braintree
@@ -2364,8 +2364,8 @@
 "Countdown Ticker","倒计时自动收报机",module,Magento_CatalogEvent
 "Action","操作",module,Magento_CatalogEvent
 "Edit","编辑",module,Magento_CatalogEvent
-"Concrete type for %1 not implemented","Concrete type for %1 not implemented",module,Magento_CatalogGraphQl
-"Missing key %1 in product data","Missing key %1 in product data",module,Magento_CatalogGraphQl
+"Concrete type for %1 not implemented","未实现 %1 的具体类型",module,Magento_CatalogGraphQl
+"Missing key %1 in product data","产品数据中缺少键 %1",module,Magento_CatalogGraphQl
 "currentPage value %1 specified is greater than the number of pages available.","currentPage value %1 specified is greater than the number of pages available.",module,Magento_CatalogGraphQl
 """id for category should be specified","""id for category should be specified",module,Magento_CatalogGraphQl
 "No child sku found for product link.","No child sku found for product link.",module,Magento_CatalogGraphQl

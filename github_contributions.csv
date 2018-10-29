@@ -3487,17 +3487,17 @@
 "This user cannot be deleted because he/she is a company admin.","This user cannot be deleted because he/she is a company admin.",module,Magento_Company
 "Edit User","Edit User",module,Magento_Company
 "Cannot Delete User","Cannot Delete User",module,Magento_Company
-"Delete this user?","删除此用户?",module,Magento_Company
-"This action cannot be undone. Are you sure you want to delete this user?","This action cannot be undone. Are you sure you want to delete this user?",module,Magento_Company
-"Edit Team","Edit Team",module,Magento_Company
-"Cannot Delete This Team","Cannot Delete This Team",module,Magento_Company
+"Delete this user?","删除此用户？",module,Magento_Company
+"This action cannot be undone. Are you sure you want to delete this user?","此操作无法撤消。 你确定你想删除此用户吗？",module,Magento_Company
+"Edit Team","编辑团队",module,Magento_Company
+"Cannot Delete This Team","无法删除此团队",module,Magento_Company
 "Delete this team?","Delete this team?",module,Magento_Company
-"This action cannot be undone. Are you sure you want to delete this team?","This action cannot be undone. Are you sure you want to delete this team?",module,Magento_Company
-"Delete This Role?","Delete This Role?",module,Magento_Company
-"This action cannot be undone. Are you sure you want to delete this role?","This action cannot be undone. Are you sure you want to delete this role?",module,Magento_Company
-"Cannot Delete Role","Cannot Delete Role",module,Magento_Company
-"Cannot Delete Customer","Cannot Delete Customer",module,Magento_Company
-"Set Inactive","Set Inactive",module,Magento_Company
+"This action cannot be undone. Are you sure you want to delete this team?","此操作无法撤消。 你确定你想删除此团队吗？",module,Magento_Company
+"Delete This Role?","删除此角色？",module,Magento_Company
+"This action cannot be undone. Are you sure you want to delete this role?","此操作无法撤消。 你确定你想删除此角色吗？",module,Magento_Company
+"Cannot Delete Role","无法删除角色",module,Magento_Company
+"Cannot Delete Customer","无法删除顾客",module,Magento_Company
+"Set Inactive","设置成非活动",module,Magento_Company
 "Select Delete to permanently delete the user account and content. User's orders and quotes are still visible for the merchant. Select Set Inactive to temporarily lock the user. The user’s content is still available to parent users.","Select Delete to permanently delete the user account and content. User's orders and quotes are still visible for the merchant. Select Set Inactive to temporarily lock the user. The user’s content is still available to parent users.",module,Magento_Company
 "User with this email already exists in the system. Enter a different email address to continue. If you want to use your current account as an administrator account, please contact the seller.","User with this email already exists in the system. Enter a different email address to continue. If you want to use your current account as an administrator account, please contact the seller.",module,Magento_Company
 "Enable Company","Enable Company",module,Magento_Company

@@ -3471,22 +3471,22 @@
     for the following reason:","Your company registration request (for the <strong>%company_name</strong>) has been rejected
     for the following reason:",module,Magento_Company
 "This action cannot be undone. Are you sure you want to delete this company? After the company is deleted, all the company members will be set to Inactive.","This action cannot be undone. Are you sure you want to delete this company? After the company is deleted, all the company members will be set to Inactive.",module,Magento_Company
-"Delete a Company?","Delete a Company?",module,Magento_Company
-"Cancel","Cancel",module,Magento_Company
-"Are you sure you want to do this?","Are you sure you want to do this?",module,Magento_Company
-"Sorry! You cannot delete this user: The user is the company admin.","Sorry! You cannot delete this user: The user is the company admin.",module,Magento_Company
-"Cannot Delete the Company Admin","Cannot Delete the Company Admin",module,Magento_Company
-"Done","Done",module,Magento_Company
-"No results","No results",module,Magento_Company
-"options","options",module,Magento_Company
-"Proceed","Proceed",module,Magento_Company
-"Change Company Status?","Change Company Status?",module,Magento_Company
-"Change status","Change status",module,Magento_Company
-"Popup title","Popup title",module,Magento_Company
-"Cannot delete the user","Cannot delete the user",module,Magento_Company
-"This user cannot be deleted because he/she is a company admin.","This user cannot be deleted because he/she is a company admin.",module,Magento_Company
-"Edit User","Edit User",module,Magento_Company
-"Cannot Delete User","Cannot Delete User",module,Magento_Company
+"Delete a Company?","删除一个公司吗？",module,Magento_Company
+"Cancel","取消",module,Magento_Company
+"Are you sure you want to do this?","您确认要这么做么？",module,Magento_Company
+"Sorry! You cannot delete this user: The user is the company admin.","见谅！你无法删除此用户：此用户是公司管理员。",module,Magento_Company
+"Cannot Delete the Company Admin","无法删除公司管理员",module,Magento_Company
+"Done","完成",module,Magento_Company
+"No results","无结果",module,Magento_Company
+"options","选项",module,Magento_Company
+"Proceed","继续进行",module,Magento_Company
+"Change Company Status?","改变公司状态？",module,Magento_Company
+"Change status","改变状态",module,Magento_Company
+"Popup title","弹出标题",module,Magento_Company
+"Cannot delete the user","无法删除此用户",module,Magento_Company
+"This user cannot be deleted because he/she is a company admin.","无法删除此用户，因为此用户是公司管理员",module,Magento_Company
+"Edit User","编辑用户",module,Magento_Company
+"Cannot Delete User","无法删除用户",module,Magento_Company
 "Delete this user?","删除此用户？",module,Magento_Company
 "This action cannot be undone. Are you sure you want to delete this user?","此操作无法撤消。 你确定你想删除此用户吗？",module,Magento_Company
 "Edit Team","编辑团队",module,Magento_Company
@@ -3498,30 +3498,30 @@
 "Cannot Delete Role","无法删除角色",module,Magento_Company
 "Cannot Delete Customer","无法删除顾客",module,Magento_Company
 "Set Inactive","设置成非活动",module,Magento_Company
-"Select Delete to permanently delete the user account and content. User's orders and quotes are still visible for the merchant. Select Set Inactive to temporarily lock the user. The user’s content is still available to parent users.","Select Delete to permanently delete the user account and content. User's orders and quotes are still visible for the merchant. Select Set Inactive to temporarily lock the user. The user’s content is still available to parent users.",module,Magento_Company
-"User with this email already exists in the system. Enter a different email address to continue. If you want to use your current account as an administrator account, please contact the seller.","User with this email already exists in the system. Enter a different email address to continue. If you want to use your current account as an administrator account, please contact the seller.",module,Magento_Company
-"Enable Company","Enable Company",module,Magento_Company
-"Company Configuration","Company Configuration",module,Magento_Company
-"General","General",module,Magento_Company
-"Allow Company Registration from the Storefront","Allow Company Registration from the Storefront",module,Magento_Company
-"Email Options - Company Registration","Email Options - Company Registration",module,Magento_Company
-"Company Registration Email Recipient","Company Registration Email Recipient",module,Magento_Company
-"Send Company Registration Email Copy To","Send Company Registration Email Copy To",module,Magento_Company
-"Comma-separated","Comma-separated",module,Magento_Company
-"Send Email Copy Method","Send Email Copy Method",module,Magento_Company
-"Default Company Registration Email","Default Company Registration Email",module,Magento_Company
-"Customer-Related Emails","Customer-Related Emails",module,Magento_Company
-"Default 'Sales Rep Assigned' Email","Default 'Sales Rep Assigned' Email",module,Magento_Company
-"This email is sent to the company's Sales Rep and the Company Admin.","This email is sent to the company's Sales Rep and the Company Admin.",module,Magento_Company
-"Default 'Assign Company to Customer' Email","Default 'Assign Company to Customer' Email",module,Magento_Company
-"This email is sent to the customer only.","This email is sent to the customer only.",module,Magento_Company
-"Default 'Assign Company Admin' Email","Default 'Assign Company Admin' Email",module,Magento_Company
-"Default 'Company Admin Inactive' Email","Default 'Company Admin Inactive' Email",module,Magento_Company
-"Default 'Company Admin Changed To Member' Email","Default 'Company Admin Changed To Member' Email",module,Magento_Company
-"Default 'Customer Status Active' Email","Default 'Customer Status Active' Email",module,Magento_Company
-"Default 'Customer Status Inactive' Email","Default 'Customer Status Inactive' Email",module,Magento_Company
-"Company Status Change","Company Status Change",module,Magento_Company
-"Send Company Status Change Email Copy To","Send Company Status Change Email Copy To",module,Magento_Company
+"Select Delete to permanently delete the user account and content. User's orders and quotes are still visible for the merchant. Select Set Inactive to temporarily lock the user. The user’s content is still available to parent users.","选择删除来永久删除用户账户和内容。用户的订单和报价对商家仍然可见。选择设置成非活动以临时锁定用户。父级用户仍然可以使用用户的内容",module,Magento_Company
+"User with this email already exists in the system. Enter a different email address to continue. If you want to use your current account as an administrator account, please contact the seller.","此邮件的用户已经存在于系统中。请输入一个不同的电子邮件地址。如果您想使用您的当前账户作为管理员账户，请联系卖方。",module,Magento_Company
+"Enable Company","启用公司",module,Magento_Company
+"Company Configuration","公司设置",module,Magento_Company
+"General","通用选项",module,Magento_Company
+"Allow Company Registration from the Storefront","允许从网站前台注册公司",module,Magento_Company
+"Email Options - Company Registration","电子邮件选项-公司注册",module,Magento_Company
+"Company Registration Email Recipient","公司注册的电子邮件收件人",mDefault Company Registration Emailodule,Magento_Company
+"Send Company Registration Email Copy To","发送公司注册电子邮件副本到",module,Magento_Company
+"Comma-separated","以英文逗号分隔的",module,Magento_Company
+"Send Email Copy Method","发送电子邮件副本方法",module,Magento_Company
+"Default Company Registration Email","默认公司注册电子邮件",module,Magento_Company
+"Customer-Related Emails","客户相关的邮件",module,Magento_Company
+"Default 'Sales Rep Assigned' Email","默认选项为“销售代表指定”电子邮件",module,Magento_Company
+"This email is sent to the company's Sales Rep and the Company Admin.","这封邮件是发给公司的销售代表和公司管理的。",module,Magento_Company
+"Default 'Assign Company to Customer' Email","默认选项为“分配公司给客户”电子邮件",module,Magento_Company
+"This email is sent to the customer only.","这封邮件只会发给客户。",module,Magento_Company
+"Default 'Assign Company Admin' Email","默认选项为“指定的公司管理”电子邮件,module,Magento_Company
+"Default 'Company Admin Inactive' Email","默认选项为“公司管理不活跃”电子邮件",module,Magento_Company
+"Default 'Company Admin Changed To Member' Email","默认选项为“公司管理改为会员”电子邮件",module,Magento_Company
+"Default 'Customer Status Active' Email","默认选项为“客户状态活跃”电子邮件",module,Magento_Company
+"Default 'Customer Status Inactive' Email","默认选项为“客户状态暂停”电子邮件",module,Magento_Company
+"Company Status Change","公司状态改变",module,Magento_Company
+"Send Company Status Change Email Copy To","发送公司状态变更电子邮件副本到",module,Magento_Company
 "Comma-separated. The recipient(s) will get a copy of an email which is by default sent to the Company Admin only.","Comma-separated. The recipient(s) will get a copy of an email which is by default sent to the Company Admin only.",module,Magento_Company
 "Default 'Company Status Change To Active 1"" Email","Default 'Company Status Change To Active 1"" Email",module,Magento_Company
 "This email is sent when company status changes from Pending Approval to Active.","This email is sent when company status changes from Pending Approval to Active.",module,Magento_Company
@@ -6232,7 +6232,7 @@
 "Date Format","日期格式",module,Magento_GiftRegistry
 "Is Default","为默认值",module,Magento_GiftRegistry
 "Select a shipping address from your address book or enter a new address.","从您的通讯簿中选择送货地址或输入新的地址。",module,Magento_GiftRegistry
-"Company","地址",module,Magento_GiftRegistry
+"Company","公司名",module,Magento_GiftRegistry
 "Address","地址",module,Magento_GiftRegistry
 "Street Address","街道地址",module,Magento_GiftRegistry
 "Street Address %1","街道地址 %1",module,Magento_GiftRegistry

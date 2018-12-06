@@ -113,7 +113,7 @@
 "An error occurred. For details, see the error log.","发生错误。有关详细信息, 请参阅错误日志。",module,Magento_AdvancedCheckout
 "You do not have access to this.","你没有权限访问这个页面。",module,Magento_AdvancedCheckout
 "Orders can only be completed in an active store. Verify the store and try again.","订单只能在被激活的店铺中完成，请确认店铺激活状态后再尝试。",module,Magento_AdvancedCheckout
-"The ordered item needs to be loaded. Load the item and try again.","The ordered item needs to be loaded. Load the item and try again.",module,Magento_AdvancedCheckout
+"The ordered item needs to be loaded. Load the item and try again.","商品列表已更新，请重新加载。",module,Magento_AdvancedCheckout
 "The quote item ID needs to be received. Set the ID and try again.","The quote item ID needs to be received. Set the ID and try again.",module,Magento_AdvancedCheckout
 "The quote item needs to be loaded. Load the item and try again.","The quote item needs to be loaded. Load the item and try again.",module,Magento_AdvancedCheckout
 "The wish list item ID needs to be received. Set the ID and try again.","The wish list item ID needs to be received. Set the ID and try again.",module,Magento_AdvancedCheckout
@@ -14227,11 +14227,11 @@
 "Menu","菜单:",theme,frontend/Magento/blank
 "Account","帐户",theme,frontend/Magento/blank
 "Settings","设置",theme,frontend/Magento/blank
-"Now Shopping by","现在购物用",theme,frontend/Magento/luma
+"Now Shopping by","现在购物由",theme,frontend/Magento/luma
 "Previous","上一个",theme,frontend/Magento/luma
 "Remove","删除",theme,frontend/Magento/luma
 "Remove This Item","删除该内容",theme,frontend/Magento/luma
-"Shop By","清除全部",theme,frontend/Magento/luma
+"Shop By","选购",theme,frontend/Magento/luma
 "Clear All","清除全部",theme,frontend/Magento/luma
 "Shopping Options","配送方式选择",theme,frontend/Magento/luma
 "Welcome to %store_name","欢迎来到 %store_name",theme,frontend/Magento/luma
@@ -14253,27 +14253,27 @@
 "Order History","订单历史记录",theme,frontend/Magento/luma
 "View past orders","查看过去的订单",theme,frontend/Magento/luma
 "Footer","页脚",theme,frontend/Magento/luma
-"<a href=%url_about_us>About Us</a>","<a href=%url_about_us>About Us</a>",theme,frontend/Magento/luma
-"<a href=url_customer_service>Customer Service</a>","<a href=url_customer_service>Customer Service</a>",theme,frontend/Magento/luma
+"<a href=%url_about_us>About Us</a>","<a href=%url_about_us>关于我们</a>",theme,frontend/Magento/luma
+"<a href=url_customer_service>Customer Service</a>","<a href=url_customer_service>客户服务</a>",theme,frontend/Magento/luma
 "<a href=""tel:%store_phone"">%store_phone</a>","<a href=""tel:%store_phone""> %store_phone</a>",theme,frontend/Magento/luma
 "Hours of Operation:<br /><span class=""no-link"">%store_hours</span>.","营业时间: < br / > <span class=""no-link"">%store_hours</span>。",theme,frontend/Magento/luma
 "Credit memo for your %store_name order","您的% store_name顺序的信用备忘录",theme,frontend/Magento/luma
 "Thank you for your order from %store_name.","谢谢您的订单从 %store_name。",theme,frontend/Magento/luma
-"You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","通过 <a href=""%account_url""> 登录到您的帐户</a>，可以检查您的订单状态。",theme,frontend/Magento/luma
-"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>.","如果您有关于您的订单问题，，你可以在 <a href=""mailto:%store_email""> %store_email</a>，我们发送电子邮件。",theme,frontend/Magento/luma
-"Your Credit Memo #%creditmemo_id for Order #%order_id","你信用秩序 #%order_id 的备注 #%creditmemo_id",theme,frontend/Magento/luma
+"You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","您可以通过 <a href=""%account_url"">登录到您的帐户</a> 来检查订单的状态。",theme,frontend/Magento/luma
+"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>.","如果您对订单有任何疑问, 可在 <a href=""mailto:%store_email"">%store_email</a> 处向我们发送电子邮件。",theme,frontend/Magento/luma
+"Your Credit Memo #%creditmemo_id for Order #%order_id","您的信用备忘录 #%creditmemo_id 订单号%order_id",theme,frontend/Magento/luma
 "Billing Info","付费信息",theme,frontend/Magento/luma
-"Shipping Info","航运信息",theme,frontend/Magento/luma
+"Shipping Info","送货信息",theme,frontend/Magento/luma
 "Payment Method","支付方式",theme,frontend/Magento/luma
-"Shipping Method","运送方式",theme,frontend/Magento/luma
-"Update to your %store_name credit memo","Update to your %store_name credit memo",theme,frontend/Magento/luma
-"Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.","你订单 #%increment_id 已更新的状态为 <strong>%order_status</strong>。",theme,frontend/Magento/luma
+"Shipping Method","送货方式",theme,frontend/Magento/luma
+"Update to your %store_name credit memo","更新到您的 %store_name 贷方通知单",theme,frontend/Magento/luma
+"Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.","您的订单 #%increment_id 已更新, 状态为 <strong>%order_status</strong>。",theme,frontend/Magento/luma
 "Invoice for your %store_name order","您的 %store_name 订单发票",theme,frontend/Magento/luma
-"Your Invoice #%invoice_id for Order #%order_id","为订单 #%order_id 你发票 #%invoice_id",theme,frontend/Magento/luma
+"Your Invoice #%invoice_id for Order #%order_id","您的发票 #%invoice_id 订单号%order_id",theme,frontend/Magento/luma
 "Update to your %store_name invoice","更新到您的 %store_name 发票",theme,frontend/Magento/luma
 "Your %store_name order confirmation","您的 %store_name 订单确认",theme,frontend/Magento/luma
 "%customer_name,","%customer_name，",theme,frontend/Magento/luma
-"Once your package ships we will send you a tracking number.","一旦发货我们将向您发送一个跟踪号码。",theme,frontend/Magento/luma
+"Once your package ships we will send you a tracking number.","一旦您的包裹发货, 我们将向您发送一个跟踪号码。",theme,frontend/Magento/luma
 "Your Order <span class=""no-link"">#%increment_id</span>","您的订单 <span class=""no-link""> #%increment_id</span>",theme,frontend/Magento/luma
 "Placed on <span class=""no-link"">%created_at</span>","放在 <span class=""no-link"">%created_at</span>",theme,frontend/Magento/luma
 "Update to your %store_name order","更新到您的 %store_name 订单",theme,frontend/Magento/luma
@@ -14281,6 +14281,6 @@
 "Your shipping confirmation is below. Thank you again for your business.","下面是您发货确认信息。再次感谢您为您的业务。",theme,frontend/Magento/luma
 "Your Shipment #%shipment_id for Order #%order_id","为订单 #%order_id 你装运 #%shipment_id",theme,frontend/Magento/luma
 "Update to your %store_name shipment","更新您的% store_name装运",theme,frontend/Magento/luma
-"My Account","My Account",theme,frontend/Magento/luma
+"My Account","我的账户",theme,frontend/Magento/luma
 "Address Book","通讯簿",theme,frontend/Magento/luma
 "Account Information","帐户信息",theme,frontend/Magento/luma

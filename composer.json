@@ -3,7 +3,7 @@
   "description": "Chinese language package for Magento 2",
   "homepage": "https://www.mageplaza.com",
   "require": {
-    "mageplaza/module-core": "^1.3.13|dev-master"
+    "mageplaza/module-core": "^1.3.13"
   },
   "type": "magento2-language",
   "version": "1.0.1",

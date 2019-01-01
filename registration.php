@@ -10,7 +10,7 @@
  *
  *                     @category  Mageplaza
  *                     @package   Mageplaza_Chinese
- *                     @copyright Copyright (c) 2018
+ *                     @copyright Copyright (c) 2019
  *                     @license   https://www.mageplaza.com/LICENSE.txt
  */
 

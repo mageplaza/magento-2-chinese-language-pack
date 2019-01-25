@@ -36,19 +36,19 @@ The `github_contributions.csv` is saparated **line by line**, see:
 
 Fom the begining, `github_contributions.csv` is empty, you guys should add more translations into it.
 
-#### Suggest
-- You can copy apart of `zh_Hans_CN.csv` into `github_contributions.csv` then translate them.
+#### Suggestions
+- You can copy any part of `zh_Hans_CN.csv` and paste to `github_contributions.csv` then translate it.
+- Please do not copy all lines in `zh_Hans_CN.csv`, we will not approve it in this case.
 
 ## Step 3: Contribute
 
 - Now time to contribute, **commit your work** to this repo.
-- After commit, it will ask you to **create a pull request**, so please create a pull request then will check and approve it.
-
+- After committing, it will ask you to **create a pull request**, so please create a pull request, we will check and approve it.
 
 
 You can [install this language package via composer](https://github.com/mageplaza/magento-2-chinese-language-pack#-method-1-composer-method-recommend) and other people can install / contribute this language pack.
 
-[Contact us](https://www.mageplaza.com/contact.html) if we miss your pull request(s) ;)
+[Contact us](https://www.mageplaza.com/contact.html) if we miss your pull request(s).
 
 Happy translating!
 

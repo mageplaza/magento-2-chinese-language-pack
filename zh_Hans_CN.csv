@@ -1,7 +1,7 @@
 All,全部,module,Magento_AdminGws
 None,无,module,Magento_AdminGws
 "Allowed Scopes",允许的范围,module,Magento_AdminGws
-"More permissions are needed to delete the ""%1"" item.","More permissions are needed to delete the ""%1"" item.",module,Magento_AdminGws
+"More permissions are needed to delete the ""%1"" item.","删除 ""%1"" 项需要更多权限。",module,Magento_AdminGws
 "You need more permissions to apply some of the rule updates.",你需要更高的权限应用一些规则的更新。,module,Magento_AdminGws
 "This entity needs to be assigned to a store view. Verify the entity assignment and try again.","This entity needs to be assigned to a store view. Verify the entity assignment and try again.",module,Magento_AdminGws
 "Orders can only be completed in an active store. Verify the store and try again.","Orders can only be completed in an active store. Verify the store and try again.",module,Magento_AdminGws
@@ -13,8 +13,8 @@ None,无,module,Magento_AdminGws
 "More permissions are needed to set All Scopes to a Role.","More permissions are needed to set All Scopes to a Role.",module,Magento_AdminGws
 "The ""%1"" website ID is incorrect. Verify the website ID and try again.","The ""%1"" website ID is incorrect. Verify the website ID and try again.",module,Magento_AdminGws
 "You need more permissions to access website ""%1"".","你需要更多的权限来访问网站""%1""。",module,Magento_AdminGws
-"The ""%1"" store ID is incorrect. Verify the store ID and try again.","The ""%1"" store ID is incorrect. Verify the store ID and try again.",module,Magento_AdminGws
-"More permissions are needed to save this setting.","More permissions are needed to save this setting.",module,Magento_AdminGws
+"The ""%1"" store ID is incorrect. Verify the store ID and try again.","""%1"" 商店(store) ID 不正确。请验证商店 ID 并重试。",module,Magento_AdminGws
+"More permissions are needed to save this setting.",保存此设置需要更多权限。,module,Magento_AdminGws
 "Role Scopes",角色作用范围,module,Magento_AdminGws
 Custom,自定义,module,Magento_AdminGws
 "Read Details",查看详情,module,Magento_AdminNotification
@@ -105,7 +105,7 @@ Configure,配置,module,Magento_AdvancedCheckout
 "You must buy at least %1 of these per purchase.",每次购买，您必须购买至少%1。,module,Magento_AdvancedCheckout
 "Specify the product's options.",指定的产品选项。,module,Magento_AdvancedCheckout
 "Alert me when this item is available.",当产品可买时，请通知我。,module,Magento_AdvancedCheckout
-"This customer couldn't be found. Verify the customer and try again.","This customer couldn't be found. Verify the customer and try again.",module,Magento_AdvancedCheckout
+"This customer couldn't be found. Verify the customer and try again.",无法查找到当前客户信息，请验证客户后再次尝试。,module,Magento_AdvancedCheckout
 "Shopping cart management is disabled for this customer.",此顾客禁用购物车管理。,module,Magento_AdvancedCheckout
 "This store couldn't be found. Verify the store and try again.","This store couldn't be found. Verify the store and try again.",module,Magento_AdvancedCheckout
 Customers,客户,module,Magento_AdvancedCheckout
@@ -117,7 +117,7 @@ Customers,客户,module,Magento_AdvancedCheckout
 "The quote item ID needs to be received. Set the ID and try again.","The quote item ID needs to be received. Set the ID and try again.",module,Magento_AdvancedCheckout
 "The quote item needs to be loaded. Load the item and try again.","The quote item needs to be loaded. Load the item and try again.",module,Magento_AdvancedCheckout
 "The wish list item ID needs to be received. Set the ID and try again.","The wish list item ID needs to be received. Set the ID and try again.",module,Magento_AdvancedCheckout
-"The wish list item needs to be loaded. Load the item and try again.","The wish list item needs to be loaded. Load the item and try again.",module,Magento_AdvancedCheckout
+"The wish list item needs to be loaded. Load the item and try again.","需要加载收藏夹列表项。请加载该项目, 然后重试。",module,Magento_AdvancedCheckout
 "An error has occurred. See error log for details.",出问题了，详细信息请查阅错误日志。,module,Magento_AdvancedCheckout
 "You cannot configure a product.",您不能配置这个产品。,module,Magento_AdvancedCheckout
 "You removed the items.",您删除的商品。,module,Magento_AdvancedCheckout
@@ -148,7 +148,7 @@ Customers,客户,module,Magento_AdvancedCheckout
 "Yes, for Specified Customer Groups",是的，针对指定的客户群体,module,Magento_AdvancedCheckout
 "Yes, for Everyone",是的，对所有人生效。,module,Magento_AdvancedCheckout
 No,否,module,Magento_AdvancedCheckout
-"The file is corrupt and can't be used.","The file is corrupt and can't be used.",module,Magento_AdvancedCheckout
+"The file is corrupt and can't be used.","该文件已损坏, 无法使用。",module,Magento_AdvancedCheckout
 "Please upload the file in .csv format.","请上传 .csv 格式的文件。",module,Magento_AdvancedCheckout
 "%1 item(s) need your attention.","%1 项目需要您的关注。",module,Magento_AdvancedCheckout
 "Apply Coupon Code",适用的优惠券代码,module,Magento_AdvancedCheckout

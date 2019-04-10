@@ -1,0 +1,404 @@
+"Summary","خلاصة",theme,frontend\Magento\blank
+"Account Dashboard","لوحة تحكم الحساب",theme,frontend\Magento\blank
+"Account Information","معلومات الحساب",theme,frontend\Magento\blank
+"Address Book","سجل العناوين",theme,frontend\Magento\blank
+"Menu","القائمة",theme,frontend\Magento\blank
+"Account","الحساب",theme,frontend\Magento\blank
+"Settings","الإعدادات",theme,frontend\Magento\blank
+"Now Shopping by","تسوق الآن من",theme,frontend\Magento\luma
+"Previous","السابق",theme,frontend\Magento\luma
+"Remove","ازالة",theme,frontend\Magento\luma
+"Remove This Item","حذف هذا العنصر",theme,frontend\Magento\luma
+"Shop By","تصفح عبر",theme,frontend\Magento\luma
+"Clear All","إلغاء الكل",theme,frontend\Magento\luma
+"Shopping Options","خيارات تنفيذ البيع",theme,frontend\Magento\luma
+"Welcome to %store_name","مرحبا بك في %store_name",theme,frontend\Magento\luma
+"%name,","%name،",theme,frontend\Magento\luma
+"Welcome to %store_name.","مرحبا بك في %store_name.",theme,frontend\Magento\luma
+"To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","لتسجيل الدخول إلى موقعنا استخدم بيانات الدخول التالية للشراء أو لإدارة <a href=""%customer_url""> عضويتك</a>:",theme,frontend\Magento\luma
+"Email:","البريد الالكترونى:",theme,frontend\Magento\luma
+"Password:","الرقم السري:",theme,frontend\Magento\luma
+"Password you set when creating account","كلمة المرور التي قمت بتعيينها عند إنشاء الحساب",theme,frontend\Magento\luma
+"Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.","نسيت كلمة مرور حسابك؟ <a href=""%reset_url"">اضغط هنا</a> لإعادة تعيينها.",theme,frontend\Magento\luma
+"When you sign in to your account, you will be able to:","عند تسجيل الدخول إلى حسابك، سوف تكون قادراً على:",theme,frontend\Magento\luma
+"Quick Checkout","إتمام الشراء الفوري",theme,frontend\Magento\luma
+"Proceed through checkout faster","أكمل في الشراء الفوري",theme,frontend\Magento\luma
+"Order Status","حالة الطلب",theme,frontend\Magento\luma
+"Check the status of orders","التحقق من حالة الطلب",theme,frontend\Magento\luma
+"Manage Addresses","إدارة العناوين",theme,frontend\Magento\luma
+"Store alternative addresses","حفظ عناوين بديلة",theme,frontend\Magento\luma
+"For shipping to multiple family members and friends","للشحن إلى العديد من أفراد العائلة والأصدقاء",theme,frontend\Magento\luma
+"Order History","سجل الطلبات",theme,frontend\Magento\luma
+"View past orders","عرض الطلبات السابقة",theme,frontend\Magento\luma
+"Footer","ذيل الصفحة",theme,frontend\Magento\luma
+"<a href=%url_about_us>About Us</a>","<a href=%url_about_us>About Us</a>",theme,frontend\Magento\luma
+"<a href=url_customer_service>Customer Service</a>","<a href=url_customer_service>Customer Service</a>",theme,frontend\Magento\luma
+"<a href=""tel:%store_phone"">%store_phone</a>","<a href=""tel:%store_phone""> %store_phone</a>",theme,frontend\Magento\luma
+"Hours of Operation:<br /><span class=""no-link"">%store_hours</span>.","ساعات العمل: < br/> <span class=""no-link"">%store_hours</span>.",theme,frontend\Magento\luma
+"Credit memo for your %store_name order","مذكرة الائتمان لطلبك %store_name",theme,frontend\Magento\luma
+"Thank you for your order from %store_name.","شكرا لك على الشراء من %store_name.",theme,frontend\Magento\luma
+"You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","يمكنك التحقق من حالة طلبك عبر <a href=""%account_url""> تسجيل الدخول إلى حسابك</a>.",theme,frontend\Magento\luma
+"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>.","إذا كان لديك أسئلة حول الطلب، يمكنك مراسلتنا على <a href=""mailto:%store_email""> %store_email</a>.",theme,frontend\Magento\luma
+"Your Credit Memo #%creditmemo_id for Order #%order_id","مذكره الإئتمان رقم #%creditmemo_id لأمر #%order_id",theme,frontend\Magento\luma
+"Billing Info","بيانات الدفع",theme,frontend\Magento\luma
+"Shipping Info","بيانات الشحن",theme,frontend\Magento\luma
+"Payment Method","طريقة الدفع",theme,frontend\Magento\luma
+"Shipping Method","طريقة الشحن",theme,frontend\Magento\luma
+"Update to your %store_name credit memo","تحديث لمذكرة الائتمان الخاصة بك %store_name",theme,frontend\Magento\luma
+"Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.","طلبك #%increment_id تم تحديث حالته إلى <strong>%order_status</strong>.",theme,frontend\Magento\luma
+"Invoice for your %store_name order","فاتورة لطلبك %store_name",theme,frontend\Magento\luma
+"Your Invoice #%invoice_id for Order #%order_id","فاتورتك #%invoice_id للطلب #%order_id",theme,frontend\Magento\luma
+"Update to your %store_name invoice","تحديث للفاتورة %store_name",theme,frontend\Magento\luma
+"Your %store_name order confirmation","تأكيد طلبك في %store_name",theme,frontend\Magento\luma
+"%customer_name,","%customer_name،",theme,frontend\Magento\luma
+"Once your package ships we will send you a tracking number.","سوف نرسلك لم رقم بوليصة الشحن فور شحن طلبكم.",theme,frontend\Magento\luma
+"Your Order <span class=""no-link"">#%increment_id</span>","طلبك <span class=""no-link"">#%increment_id</span>",theme,frontend\Magento\luma
+"Placed on <span class=""no-link"">%created_at</span>","بتاريخ <span class=""no-link"">%created_at</span>",theme,frontend\Magento\luma
+"Update to your %store_name order","تحديث طلبك في %store_name",theme,frontend\Magento\luma
+"Your %store_name order has shipped","لقد تم شحن طلبك %store_name",theme,frontend\Magento\luma
+"Your shipping confirmation is below. Thank you again for your business.","تأكيد الشحن الخاص بك أدناه. أشكركم مرة أخرى على عملك.",theme,frontend\Magento\luma
+"Your Shipment #%shipment_id for Order #%order_id","شحنتك #%shipment_id لطلب رقم #%order_id",theme,frontend\Magento\luma
+"Update to your %store_name shipment","تحديث للشحنة الخاصة بك %store_name",theme,frontend\Magento\luma
+"Account Dashboard","لوحة تحكم الحساب",theme,frontend\Magento\luma
+"Address Book","سجل العناوين",theme,frontend\Magento\luma
+"Account Information","معلومات الحساب",theme,frontend\Magento\luma
+"About Us","من نحن",theme,frontend\Magento\luma
+"Customer Service","خدمة العملاء",theme,frontend\Magento\luma
+"My Account","حسابي",theme,frontend\Magento\luma
+"Backup options","خيارات النسخ الاحتياطي",lib,web
+"Warning","تحذير",lib,web
+"Cancel","إلغاء",lib,web
+"Ok","موافق",lib,web
+"Insert Widget...","إدراج رمز...",lib,web
+"No records found.","لم يتم العثور على سجلات.",lib,web
+"Recent items","العناصر الحديثة",lib,web
+"Show all...","إظهار الجميع...",lib,web
+"Please enter a number greater 0 in this field.","فضلا قم بادخال رقم اكبر من 0 في الحقل.",lib,web
+"Please select one of each ratings above.","من فضلك قم باختيار إحدي التقييمات بالأعلى.",lib,web
+"Please specify Url.","يرجى تحديد URL.",lib,web
+"Method %s does not exist on jQuery.decorate","طريقة %s غير موجودة على jQuery.decorate",lib,web
+"Close","إغلاق",lib,web
+"Next","التالي",lib,web
+"Previous","السابق",lib,web
+"Please wait...","الرجاء الانتظار...",lib,web
+"Loading...","جاري التحميل...",lib,web
+"All ","الكل ",lib,web
+"more","المزيد",lib,web
+"Save","حفظ",lib,web
+"Translate","الترجمة",lib,web
+"Submit","إرسال",lib,web
+"Please enter {0} words or less.","الرجاء إدخال {0} كلمة او أقل.",lib,web
+"Please enter at least {0} words.","الرجاء إدخال {0} كلمة على الأقل.",lib,web
+"Please enter between {0} and {1} words.","الرجاء إدخال بين {0} و {1} كلمات.",lib,web
+"Letters or punctuation only please","فضلاً حروف و علامات ترقيم فقط",lib,web
+"Letters, numbers, spaces or underscores only please","الحروف والأرقام والمسافات و الخط السفلي فقط",lib,web
+"Letters only please","فضلاً حروف فقط",lib,web
+"No white space please","لا توجد مساحة بيضاء من فضلك",lib,web
+"Your ZIP-code must be in the range 902xx-xxxx to 905-xx-xxxx","رمزك البريدي يجب ان يكون من 902xx-xxxx الى 905-xx-xxxx",lib,web
+"A positive or negative non-decimal number please","فضلاً عدد إيجابي او سلبي غير عشري",lib,web
+"The specified vehicle identification number (VIN) is invalid.","رقم التعريف المحدد للمركبة (VIN) غير صالح.",lib,web
+"Please enter a correct date","الرجاء إدخال تاريخ صحيح",lib,web
+"Please enter a valid time, between 00:00 and 23:59","الرجاء إدخال وقت صحيح، بين 00:00 و 23:59",lib,web
+"Please enter a valid time, between 00:00 am and 12:00 pm","الرجاء إدخال وقت صحيح، بين الساعة 00:00 ص و 12:00 م",lib,web
+"Please specify a valid phone number","الرجاء إدخال رقم هاتف صحيح",lib,web
+"Please specify a valid mobile number","الرجاء إدخال رقم هاتف محمول صحيح",lib,web
+"Please enter at least {0} characters","الرجاء إدخال {0} أحرف على الأقل",lib,web
+"Please remove invalid characters: {0}.","الرجاء إزالة الأحرف غير الصالحة: {0}.",lib,web
+"Please enter a valid credit card number.","الرجاء ادخال رقم بطاقه الائتمان",lib,web
+"Please enter a valid IP v4 address.","الرجاء إدخال عنوان IP من نوع v4 صحيح.",lib,web
+"Please enter a valid IP v6 address.","الرجاء إدخال عنوان IP من نوع v6 صحيح.",lib,web
+"Invalid format.","الصيغة غير صالحة.",lib,web
+"HTML tags are not allowed.","اكواد HTML غير مسموح بها.",lib,web
+"Please select an option.","يجب إختيار احد الخيارات.",lib,web
+"Empty Value.","قيمة فارغة.",lib,web
+"Please use only letters (a-z or A-Z), numbers (0-9) or spaces only in this field.","الرجاء استخدام فقط الأحرف (a إلى z أو A إلى Z)، الأرقام (0-9) أو مسافات فقط في هذا الحقل.",lib,web
+"Please use only letters (a-z or A-Z), numbers (0-9) or underscore (_) in this field, and the first character should be a letter.","الرجاء استخدام الأحرف (a إلى z أو A إلى Z)، الأرقام (0-9) أو تسطير أسفل السطر (_) في هذا الحقل، ويجب ان يبدا بحرف.",lib,web
+"Please use only letters (a-z or A-Z), numbers (0-9), spaces and ""#"" in this field.","الرجاء استخدام الأحرف (a إلى z أو A إلى Z)، الأرقام (0-9)، المسافات و ""#"" في هذا الحقل.",lib,web
+"Please enter a valid phone number. For example (123) 456-7890 or 123-456-7890.","من فضلك قم بإدخال رقم هاتف صحيح. كمثال (123) 456-7890 أو 123-456-7890.",lib,web
+"Please enter a valid fax number (Ex: 123-456-7890).","الرجاء إدخال رقم فاكس صحيح (مثال: 123-456-7890).",lib,web
+"Please enter a valid email address (Ex: johndoe@domain.com).","الرجاء إدخال عنوان بريد إلكتروني سليم (مثلاً: johndoe@domain.com).",lib,web
+"Please enter 6 or more characters. Leading and trailing spaces will be ignored.","الرجاء إدخال 6 احرف أو أكثر. سيتم تجاهل المسافات في البداية والنهاية.",lib,web
+"Please enter 7 or more characters, using both numeric and alphabetic.","الرجاء إدخال 7 أحرف أو أكثر، باستخدام كل من الارقام و الأحرف.",lib,web
+"Minimum length of this field must be equal or greater than %1 symbols. Leading and trailing spaces will be ignored.","الحد الأدنى لطول هذا الحقل يجب أن تكون مساوية أو أكبر %1. سيتم تجاهل المسافات البادئة والزائدة.",lib,web
+"Minimum of different classes of characters in password is %1. Classes of characters: Lower Case, Upper Case, Digits, Special Characters.","الحد الأدنى من الفئات المختلفة من الرموز و الأحرف هو %1 الفئات هي: حروف صغيرة, حروف كبيرة, ارقام, رموز.",lib,web
+"Please enter a valid URL. Protocol is required (http://, https:// or ftp://).","الرجاء إدخال عنوان URL صحيح. مطلوب البروتوكول (http://أو https://أو ftp://).",lib,web
+"Please enter a valid URL. For example http://www.example.com or www.example.com.","الرجاء إدخال عنوان URL صحيح. فعلى سبيل المثال http://www.example.com أو www.example.com.",lib,web
+"Please enter a valid XML-identifier (Ex: something_1, block5, id-4).","الرجاء إدخال معرف XML صالح. وعلى سبيل المثال ( something_1، block5، id-4.).",lib,web
+"Please enter a valid social security number (Ex: 123-45-6789).","الرجاء إدخال رقم الضمان الاجتماعي صالحة (Ex: 123-45-6789).",lib,web
+"Please enter a valid zip code (Ex: 90602 or 90602-1234).","الرجاء إدخال رمز بريدي صالح (مثال: 90602 أو 90602-1234).",lib,web
+"Please use this date format: dd/mm/yyyy. For example 17/03/2006 for the 17th of March, 2006.","الرجاء استخدام هذا الشكل حتى الآن : اليوم / الشهر / السنة. فعلى سبيل المثال 17/03/2006 للالسابع عشر من اذار / مارس ، 2006.",lib,web
+"Please enter a valid $ amount. For example $100.00.","الرجاء ادخال $ من المبلغ. فعلى سبيل المثال 100،00 $.",lib,web
+"Please enter a number 0 or greater in this field.","الرجاء إدخال رقم 0 أو أكبر في هذا الحقل.",lib,web
+"Please enter a number greater than 0 in this field.","فضلا قم بادخال رقم اكبر من 0 في الحقل.",lib,web
+"Please input a valid CSS-length (Ex: 100px, 77pt, 20em, .5ex or 50%).","فضبلاً إدخل طول CSS صالح (مثال: 100px, 77pt, 20em, .5ex or 50%).",lib,web
+"Please enter a valid number in this field.","الرجاء ادخال عدد في هذا المجال.",lib,web
+"The value is not within the specified range.","القيمة ليست ضمن النطاق المحدد.",lib,web
+"Please use letters only (a-z or A-Z) in this field.","الرجاء استخدام الأحرف فقط (من الالف الى الياء) في هذا الحقل.",lib,web
+"Please use only letters (a-z), numbers (0-9) or underscore (_) in this field, and the first character should be a letter.","الرجاء استخدام الأحرف (a إلى z)، الأرقام (0-9) أو تسطير أسفل السطر (_) في هذا الحقل، ويجب ان يبدا بحرف.",lib,web
+"Please use only letters (a-z or A-Z) or numbers (0-9) in this field. No spaces or other characters are allowed.","فضلاً استخدم الحروف (a-z أو A-Z) او أرقام (0-9) فقط في هذا الحقل. لا يسمح بأي مسافات أو رموز أخرى.",lib,web
+"Please enter a valid date.","الرجاء ادخال تاريخ صحيح.",lib,web
+"Make sure the To Date is later than or the same as the From Date.","تأكد من ""أن التاريخ"" يتجاوز أو نفس ""من التاريخ"".",lib,web
+"Please make sure your passwords match.","رجاء تاكد من ان الرقم السري يتطابق.",lib,web
+"Please enter a valid URL Key (Ex: ""example-page"", ""example-page.html"" or ""anotherlevel/example-page"").","الرجاء إدخال عنوان URL بشكل صحيح (مثال: ""example-page"", ""example-page.html"" or ""anotherlevel/example-page"").",lib,web
+"Please enter a valid zip code.","الرجاء إدخال الرمز البريدي.",lib,web
+"Please select one of the options above.","الرجاء تحديد أحد الخيارات الواردة أعلاه.",lib,web
+"Please select State/Province.","الرجاء اختيار الدولة / الأقليم.",lib,web
+"Please select a file.","الرجاء تحديد ملف.",lib,web
+"The field isn't complete.","الحقل فارغ.",lib,web
+"This is a required field.","هذا الحقل مطلوب.",lib,web
+"Please select one of the options.","رجاء قم باختيار وحده من الخيارات.",lib,web
+"Please enter a value less than or equal to %s.","الرجاء إدخال قيمة أقل من أو تساوي %s.",lib,web
+"Please enter a value greater than or equal to %s.","الرجاء إدخال قيمة أكبر من أو تساوي %s.",lib,web
+"Please enter valid email addresses, separated by commas. For example, johndoe@domain.com, johnsmith@domain.com.","الرجاء إدخال عناوين بريد الإلكتروني صالحة، مفصولة بفواصل. على سبيل المثال، johndoe@domain.com، johnsmith@domain.com.",lib,web
+"Card type does not match credit card number.","لا يطابق نوع البطاقة رقم بطاقة الائتمان.",lib,web
+"Credit card number does not match credit card type.","رقم بطاقة الائتمان لا يطابق نوع بطاقة الائتمان.",lib,web
+"Incorrect credit card expiration date.","تاريخ انتهاء صلاحية بطاقة الائتمان غير صحيح.",lib,web
+"Please enter a valid credit card verification number.","الرجاء إدخال رقم بطاقة ائتمان صالح للتحقق.",lib,web
+"Please enter issue number or start date for switch/solo card type.","الرجاء إدخال رقم الإصدار أو تاريخ البدء لنوع بطاقة switch/solo.",lib,web
+"Please enter less or equal than %1 symbols.","الرجاء إدخال أصغر من أو يساوي %1 من الرموز.",lib,web
+"Please enter more or equal than %1 symbols.","الرجاء إدخال اكبر من أو يساوي %1 من الرموز.",lib,web
+"Please enter positive number in this field.","الرجاء إدخال رقم موجب في هذا الحقل.",lib,web
+"Please enter a valid value, ex: 10,20,30","الرجاء ادخال قيمة ، مثال : 10،20،30",lib,web
+"Please enter a valid value from list","الرجاء اختيار قيمة من القائمة",lib,web
+"Please enter valid SKU key.","الرجاء إدخال SKU بشكل صحيح.",lib,web
+"Please enter a valid number.","الرجاء إدخال رقم صحيح.",lib,web
+"This is required field","هذا حقل مطلوب",lib,web
+"Admin is a required field in each row.","Admin is a required field in each row.",lib,web
+"Password cannot be the same as email address.","Password cannot be the same as email address.",lib,web
+"Please fix this field.","الرجاء إصلاح هذا الحقل.",lib,web
+"Please enter a valid email address.","الرجاء ادخال عنوان بريد الكتروني صحيح.",lib,web
+"Please enter a valid URL.","المرجو إدخال عنوان URL بشكل صحيح.",lib,web
+"Please enter a valid date (ISO).","الرجاء إدخال تاريخ بشكل صحيح (ISO).",lib,web
+"Please enter only digits.","الرجاء إدخال أرقام فقط.",lib,web
+"Please enter the same value again.","الرجاء إدخال القيمة نفسها مرة أخرى.",lib,web
+"Please enter no more than {0} characters.","الرجاء عدم إدخال أكثر من {0} أحرف.",lib,web
+"Please enter at least {0} characters.","الرجاء إدخال {0} أحرف على الأقل.",lib,web
+"Please enter a value between {0} and {1} characters long.","الرجاء إدخال قيمة بين {0} و {1} حرفاً.",lib,web
+"Please enter a value between {0} and {1}.","الرجاء إدخال قيمة بين {0} و {1}.",lib,web
+"Please enter a value less than or equal to {0}.","الرجاء إدخال قيمة أقل من أو يساوي إلى {0}.",lib,web
+"Please enter a value greater than or equal to {0}.","الرجاء إدخال قيمة أكبر من أو تساوي {0}.",lib,web
+"Please specify the quantity of product(s).","الرجاء تحديد كمية المنتج (المنتجات).",lib,web
+"Please enter a date between %min and %max.","الرجاء إدخال تاريخ بين % min و % max.",lib,web
+"Please enter a valid full date.","الرجاء إدخال تاريخ كامل بشكل صحيح.",lib,web
+"Please enter a valid month (1-12).","الرجاء إدخال شهر صالح (1-12).",lib,web
+"Please enter a valid year (1900-%1).","الرجاء إدخال سنة صحيحة (1900-%1).",lib,web
+"Please enter a valid day (1-%1).","الرجاء إدخال يوم صحيح (1-%1).",lib,web
+"Please enter a date from the past.","الرجاء إدخال تاريخ من الماضي.",lib,web
+"Maximum length of this field must be equal or less than %1 symbols.","يجب أن يكون الحد الأقصى لطول هذا الحقل مساوية أو أقل من %1 من الرموز.",lib,web
+"Admin is a required field in the each row.","Admin is a required field in the each row.",lib,web
+"Please enter a quantity greater than 0.","Please enter a quantity greater than 0.",lib,web
+"The fewest you may purchase is %1.","أقل عدد يمكنك شراؤه هو %1.",lib,web
+"The maximum you may purchase is %1.","The maximum you may purchase is %1.",lib,web
+"You can buy this product only in quantities of %1 at a time.","يمكنك الشراء من هذا المنتج فقط بكميات من %1 في وقت واحد.",lib,web
+"Forbidden extensions has been used. Avoid usage of ","Forbidden extensions has been used. Avoid usage of ",lib,web
+"No marginal white space please","No marginal white space please",lib,web
+"Please enter 6 or more characters. Leading or trailing spaces will be ignored.","من فضلك قم بإدخال 6 أحرف أو أكثر. سيتم تجاهل المسافات قبل أو بعد الأحرف.",lib,web
+"Enter valid SKU key","Enter valid SKU key",lib,web
+"Swatch and Admin are the required fields in the each row.","Swatch and Admin are the required fields in the each row.",lib,web
+"Insert Variable","Insert Variable",lib,web
+"Insert Widget","إدراج المربع الجانبي",lib,web
+"The widget %1 is no longer available. Select a different widget.","The widget %1 is no longer available. Select a different widget.",lib,web
+"First character must be letter.","First character must be letter.",lib,web
+"The password can't be the same as the email address. Create a new password and try again.","The password can't be the same as the email address. Create a new password and try again.",lib,web
+"Summary","Resum",theme,frontend\Magento\blank
+"Account Dashboard","Account Dashboard",theme,frontend\Magento\blank
+"Account Information","Informació del compte",theme,frontend\Magento\blank
+"Address Book","Llibreta d'adreces",theme,frontend\Magento\blank
+"Menu","Menú",theme,frontend\Magento\blank
+"Account","Compte",theme,frontend\Magento\blank
+"Settings","Configuració",theme,frontend\Magento\blank
+"Now Shopping by","Comprant per",theme,frontend\Magento\luma
+"Previous","Anterior",theme,frontend\Magento\luma
+"Remove","Elimina",theme,frontend\Magento\luma
+"Remove This Item","Treure aquest element",theme,frontend\Magento\luma
+"Shop By","Compra per",theme,frontend\Magento\luma
+"Clear All","Neteja tot",theme,frontend\Magento\luma
+"Shopping Options","Opcions de compra",theme,frontend\Magento\luma
+"Welcome to %store_name","Us donem la benvinguda a %store_name",theme,frontend\Magento\luma
+"%name,","%name,",theme,frontend\Magento\luma
+"Welcome to %store_name.","Us donem la benvinguda a %store_name.",theme,frontend\Magento\luma
+"To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","Per iniciar sessió, utilitzeu aquestes credencials durant la formalització de la comanda o a la pàgina <a href=""%customer_url"">El meu compte</a>:",theme,frontend\Magento\luma
+"Email:","Correu:",theme,frontend\Magento\luma
+"Password:","Contrasenya:",theme,frontend\Magento\luma
+"Password you set when creating account","Contrasenya indicada quan es va crear el compte",theme,frontend\Magento\luma
+"Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.","Contrasenya oblidada? Feu clic <a href=""%reset_url"">aquí</a> per a restaurar-la.",theme,frontend\Magento\luma
+"When you sign in to your account, you will be able to:","Quan inicieu sessió al vostre compte, podreu:",theme,frontend\Magento\luma
+"Quick Checkout","Compra ràpida",theme,frontend\Magento\luma
+"Proceed through checkout faster","Formalitzar la comanda ràpidament",theme,frontend\Magento\luma
+"Order Status","Estat de la comanda",theme,frontend\Magento\luma
+"Check the status of orders","Comprovar l'estat de les comandes",theme,frontend\Magento\luma
+"Manage Addresses","Gestionar adreces",theme,frontend\Magento\luma
+"Store alternative addresses","Desar adreces alternatives",theme,frontend\Magento\luma
+"For shipping to multiple family members and friends","Per enviar a familiars i amics",theme,frontend\Magento\luma
+"Order History","Historial de comandes",theme,frontend\Magento\luma
+"View past orders","Veure comandes anteriors",theme,frontend\Magento\luma
+"Footer","Peu de pàgina",theme,frontend\Magento\luma
+"<a href=%url_about_us>About Us</a>","<a href=%url_about_us>Sobre Nosaltres</a>",theme,frontend\Magento\luma
+"<a href=url_customer_service>Customer Service</a>","<a href=url_customer_service>Servei al client</a>",theme,frontend\Magento\luma
+"<a href=""tel:%store_phone"">%store_phone</a>","<a href=""tel:%store_phone"">%store_phone</a>",theme,frontend\Magento\luma
+"Hours of Operation:<br /><span class=""no-link"">%store_hours</span>.","Horari d'atenció:<br /><span class=""no-link"">%store_hours</span>.",theme,frontend\Magento\luma
+"Credit memo for your %store_name order","Factura d'abonament de la comanda a %store_name",theme,frontend\Magento\luma
+"Thank you for your order from %store_name.","Gràcies per la comanda a %store_name.",theme,frontend\Magento\luma
+"You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","Podeu revisar l'estat de la comanda <a href=""%account_url"">entrant al vostre compte</a>.",theme,frontend\Magento\luma
+"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>.","Si teniu consultes sobre la comanda, ens podeu escriure a <a href=""mailto:%store_email"">%store_email</a>.",theme,frontend\Magento\luma
+"Your Credit Memo #%creditmemo_id for Order #%order_id","Factura d'abonament #%creditmemo_id de la comanda #%order_id",theme,frontend\Magento\luma
+"Billing Info","Informació de facturació",theme,frontend\Magento\luma
+"Shipping Info","Informació d'enviament",theme,frontend\Magento\luma
+"Payment Method","Mètode de pagament",theme,frontend\Magento\luma
+"Shipping Method","Mètode d'enviament",theme,frontend\Magento\luma
+"Update to your %store_name credit memo","Actualització de la factura d'abonament a %store_name",theme,frontend\Magento\luma
+"Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.","La comanda #%increment_id ha estat actualitzada a l'estat <strong>%order_status</strong>.",theme,frontend\Magento\luma
+"Invoice for your %store_name order","Factura de la comanda a %store_name",theme,frontend\Magento\luma
+"Your Invoice #%invoice_id for Order #%order_id","Factura #%invoice_id de la comanda #%order_id",theme,frontend\Magento\luma
+"Update to your %store_name invoice","Actualització factura de la comanda a %store_name",theme,frontend\Magento\luma
+"Your %store_name order confirmation","Confirmació de la comanda a %store_name",theme,frontend\Magento\luma
+"%customer_name,","%customer_name,",theme,frontend\Magento\luma
+"Once your package ships we will send you a tracking number.","Rebreu el número de seguiment quan us enviem la comanda.",theme,frontend\Magento\luma
+"Your Order <span class=""no-link"">#%increment_id</span>","Comanda <span class=""no-link"">#%increment_id</span>",theme,frontend\Magento\luma
+"Placed on <span class=""no-link"">%created_at</span>","Posat en <span class=""no-link"">%created_at</span>",theme,frontend\Magento\luma
+"Update to your %store_name order","Actualització de la comanda a %store_name",theme,frontend\Magento\luma
+"Your %store_name order has shipped","S'ha enviat la comanda realitzada a %store_name",theme,frontend\Magento\luma
+"Your shipping confirmation is below. Thank you again for your business.","Confirmació de l'enviament a continuació. Gràcies de nou per la comanda.",theme,frontend\Magento\luma
+"Your Shipment #%shipment_id for Order #%order_id","Enviament #%shipment_id de la comanda #%order_id",theme,frontend\Magento\luma
+"Update to your %store_name shipment","Actualització enviament de la comanda a %store_name",theme,frontend\Magento\luma
+"Account Dashboard","Account Dashboard",theme,frontend\Magento\luma
+"Address Book","Llibreta d'adreces",theme,frontend\Magento\luma
+"Account Information","Informació del compte",theme,frontend\Magento\luma
+"About Us","About Us",theme,frontend\Magento\luma
+"Customer Service","Customer Service",theme,frontend\Magento\luma
+"My Account","El meu compte",theme,frontend\Magento\luma
+"Backup options","Backup options",lib,web
+"Warning","Warning",lib,web
+"Cancel","Cancel·la",lib,web
+"Ok","Ok",lib,web
+"Insert Widget...","Insert Widget...",lib,web
+"No records found.","No records found.",lib,web
+"Recent items","Recent items",lib,web
+"Show all...","Show all...",lib,web
+"Please enter a number greater 0 in this field.","Please enter a number greater 0 in this field.",lib,web
+"Please select one of each ratings above.","Please select one of each ratings above.",lib,web
+"Please specify Url.","Please specify Url.",lib,web
+"Method %s does not exist on jQuery.decorate","Method %s does not exist on jQuery.decorate",lib,web
+"Close","Tanca",lib,web
+"Next","Next",lib,web
+"Previous","Anterior",lib,web
+"Please wait...","Please wait...",lib,web
+"Loading...","Loading...",lib,web
+"All ","All ",lib,web
+"more","more",lib,web
+"Save","Save",lib,web
+"Translate","Translate",lib,web
+"Submit","Submit",lib,web
+"Please enter {0} words or less.","Please enter {0} words or less.",lib,web
+"Please enter at least {0} words.","Please enter at least {0} words.",lib,web
+"Please enter between {0} and {1} words.","Please enter between {0} and {1} words.",lib,web
+"Letters or punctuation only please","Letters or punctuation only please",lib,web
+"Letters, numbers, spaces or underscores only please","Letters, numbers, spaces or underscores only please",lib,web
+"Letters only please","Letters only please",lib,web
+"No white space please","No white space please",lib,web
+"Your ZIP-code must be in the range 902xx-xxxx to 905-xx-xxxx","Your ZIP-code must be in the range 902xx-xxxx to 905-xx-xxxx",lib,web
+"A positive or negative non-decimal number please","A positive or negative non-decimal number please",lib,web
+"The specified vehicle identification number (VIN) is invalid.","The specified vehicle identification number (VIN) is invalid.",lib,web
+"Please enter a correct date","Please enter a correct date",lib,web
+"Please enter a valid time, between 00:00 and 23:59","Please enter a valid time, between 00:00 and 23:59",lib,web
+"Please enter a valid time, between 00:00 am and 12:00 pm","Please enter a valid time, between 00:00 am and 12:00 pm",lib,web
+"Please specify a valid phone number","Please specify a valid phone number",lib,web
+"Please specify a valid mobile number","Please specify a valid mobile number",lib,web
+"Please enter at least {0} characters","Please enter at least {0} characters",lib,web
+"Please remove invalid characters: {0}.","Please remove invalid characters: {0}.",lib,web
+"Please enter a valid credit card number.","Please enter a valid credit card number.",lib,web
+"Please enter a valid IP v4 address.","Please enter a valid IP v4 address.",lib,web
+"Please enter a valid IP v6 address.","Please enter a valid IP v6 address.",lib,web
+"Invalid format.","Invalid format.",lib,web
+"HTML tags are not allowed.","HTML tags are not allowed.",lib,web
+"Please select an option.","Please select an option.",lib,web
+"Empty Value.","Empty Value.",lib,web
+"Please use only letters (a-z or A-Z), numbers (0-9) or spaces only in this field.","Please use only letters (a-z or A-Z), numbers (0-9) or spaces only in this field.",lib,web
+"Please use only letters (a-z or A-Z), numbers (0-9) or underscore (_) in this field, and the first character should be a letter.","Please use only letters (a-z or A-Z), numbers (0-9) or underscore (_) in this field, and the first character should be a letter.",lib,web
+"Please use only letters (a-z or A-Z), numbers (0-9), spaces and ""#"" in this field.","Please use only letters (a-z or A-Z), numbers (0-9), spaces and ""#"" in this field.",lib,web
+"Please enter a valid phone number. For example (123) 456-7890 or 123-456-7890.","Please enter a valid phone number. For example (123) 456-7890 or 123-456-7890.",lib,web
+"Please enter a valid fax number (Ex: 123-456-7890).","Please enter a valid fax number (Ex: 123-456-7890).",lib,web
+"Please enter a valid email address (Ex: johndoe@domain.com).","Please enter a valid email address (Ex: johndoe@domain.com).",lib,web
+"Please enter 6 or more characters. Leading and trailing spaces will be ignored.","Please enter 6 or more characters. Leading and trailing spaces will be ignored.",lib,web
+"Please enter 7 or more characters, using both numeric and alphabetic.","Please enter 7 or more characters, using both numeric and alphabetic.",lib,web
+"Minimum length of this field must be equal or greater than %1 symbols. Leading and trailing spaces will be ignored.","Minimum length of this field must be equal or greater than %1 symbols. Leading and trailing spaces will be ignored.",lib,web
+"Minimum of different classes of characters in password is %1. Classes of characters: Lower Case, Upper Case, Digits, Special Characters.","Minimum of different classes of characters in password is %1. Classes of characters: Lower Case, Upper Case, Digits, Special Characters.",lib,web
+"Please enter a valid URL. Protocol is required (http://, https:// or ftp://).","Please enter a valid URL. Protocol is required (http://, https:// or ftp://).",lib,web
+"Please enter a valid URL. For example http://www.example.com or www.example.com.","Please enter a valid URL. For example http://www.example.com or www.example.com.",lib,web
+"Please enter a valid XML-identifier (Ex: something_1, block5, id-4).","Please enter a valid XML-identifier (Ex: something_1, block5, id-4).",lib,web
+"Please enter a valid social security number (Ex: 123-45-6789).","Please enter a valid social security number (Ex: 123-45-6789).",lib,web
+"Please enter a valid zip code (Ex: 90602 or 90602-1234).","Please enter a valid zip code (Ex: 90602 or 90602-1234).",lib,web
+"Please use this date format: dd/mm/yyyy. For example 17/03/2006 for the 17th of March, 2006.","Please use this date format: dd/mm/yyyy. For example 17/03/2006 for the 17th of March, 2006.",lib,web
+"Please enter a valid $ amount. For example $100.00.","Please enter a valid $ amount. For example $100.00.",lib,web
+"Please enter a number 0 or greater in this field.","Please enter a number 0 or greater in this field.",lib,web
+"Please enter a number greater than 0 in this field.","Please enter a number greater than 0 in this field.",lib,web
+"Please input a valid CSS-length (Ex: 100px, 77pt, 20em, .5ex or 50%).","Please input a valid CSS-length (Ex: 100px, 77pt, 20em, .5ex or 50%).",lib,web
+"Please enter a valid number in this field.","Please enter a valid number in this field.",lib,web
+"The value is not within the specified range.","The value is not within the specified range.",lib,web
+"Please use letters only (a-z or A-Z) in this field.","Please use letters only (a-z or A-Z) in this field.",lib,web
+"Please use only letters (a-z), numbers (0-9) or underscore (_) in this field, and the first character should be a letter.","Please use only letters (a-z), numbers (0-9) or underscore (_) in this field, and the first character should be a letter.",lib,web
+"Please use only letters (a-z or A-Z) or numbers (0-9) in this field. No spaces or other characters are allowed.","Please use only letters (a-z or A-Z) or numbers (0-9) in this field. No spaces or other characters are allowed.",lib,web
+"Please enter a valid date.","Please enter a valid date.",lib,web
+"Make sure the To Date is later than or the same as the From Date.","Make sure the To Date is later than or the same as the From Date.",lib,web
+"Please make sure your passwords match.","Please make sure your passwords match.",lib,web
+"Please enter a valid URL Key (Ex: ""example-page"", ""example-page.html"" or ""anotherlevel/example-page"").","Please enter a valid URL Key (Ex: ""example-page"", ""example-page.html"" or ""anotherlevel/example-page"").",lib,web
+"Please enter a valid zip code.","Please enter a valid zip code.",lib,web
+"Please select one of the options above.","Please select one of the options above.",lib,web
+"Please select State/Province.","Please select State/Province.",lib,web
+"Please select a file.","Please select a file.",lib,web
+"The field isn't complete.","The field isn't complete.",lib,web
+"This is a required field.","This is a required field.",lib,web
+"Please select one of the options.","Please select one of the options.",lib,web
+"Please enter a value less than or equal to %s.","Please enter a value less than or equal to %s.",lib,web
+"Please enter a value greater than or equal to %s.","Please enter a value greater than or equal to %s.",lib,web
+"Please enter valid email addresses, separated by commas. For example, johndoe@domain.com, johnsmith@domain.com.","Please enter valid email addresses, separated by commas. For example, johndoe@domain.com, johnsmith@domain.com.",lib,web
+"Card type does not match credit card number.","Card type does not match credit card number.",lib,web
+"Credit card number does not match credit card type.","Credit card number does not match credit card type.",lib,web
+"Incorrect credit card expiration date.","Incorrect credit card expiration date.",lib,web
+"Please enter a valid credit card verification number.","Please enter a valid credit card verification number.",lib,web
+"Please enter issue number or start date for switch/solo card type.","Please enter issue number or start date for switch/solo card type.",lib,web
+"Please enter less or equal than %1 symbols.","Please enter less or equal than %1 symbols.",lib,web
+"Please enter more or equal than %1 symbols.","Please enter more or equal than %1 symbols.",lib,web
+"Please enter positive number in this field.","Please enter positive number in this field.",lib,web
+"Please enter a valid value, ex: 10,20,30","Please enter a valid value, ex: 10,20,30",lib,web
+"Please enter a valid value from list","Please enter a valid value from list",lib,web
+"Please enter valid SKU key.","Please enter valid SKU key.",lib,web
+"Please enter a valid number.","Please enter a valid number.",lib,web
+"This is required field","This is required field",lib,web
+"Admin is a required field in each row.","Admin is a required field in each row.",lib,web
+"Password cannot be the same as email address.","Password cannot be the same as email address.",lib,web
+"Please fix this field.","Please fix this field.",lib,web
+"Please enter a valid email address.","Please enter a valid email address.",lib,web
+"Please enter a valid URL.","Please enter a valid URL.",lib,web
+"Please enter a valid date (ISO).","Please enter a valid date (ISO).",lib,web
+"Please enter only digits.","Please enter only digits.",lib,web
+"Please enter the same value again.","Please enter the same value again.",lib,web
+"Please enter no more than {0} characters.","Please enter no more than {0} characters.",lib,web
+"Please enter at least {0} characters.","Please enter at least {0} characters.",lib,web
+"Please enter a value between {0} and {1} characters long.","Please enter a value between {0} and {1} characters long.",lib,web
+"Please enter a value between {0} and {1}.","Please enter a value between {0} and {1}.",lib,web
+"Please enter a value less than or equal to {0}.","Please enter a value less than or equal to {0}.",lib,web
+"Please enter a value greater than or equal to {0}.","Please enter a value greater than or equal to {0}.",lib,web
+"Please specify the quantity of product(s).","Please specify the quantity of product(s).",lib,web
+"Please enter a date between %min and %max.","Please enter a date between %min and %max.",lib,web
+"Please enter a valid full date.","Please enter a valid full date.",lib,web
+"Please enter a valid month (1-12).","Please enter a valid month (1-12).",lib,web
+"Please enter a valid year (1900-%1).","Please enter a valid year (1900-%1).",lib,web
+"Please enter a valid day (1-%1).","Please enter a valid day (1-%1).",lib,web
+"Please enter a date from the past.","Please enter a date from the past.",lib,web
+"Maximum length of this field must be equal or less than %1 symbols.","Maximum length of this field must be equal or less than %1 symbols.",lib,web
+"Admin is a required field in the each row.","Admin is a required field in the each row.",lib,web
+"Please enter a quantity greater than 0.","Please enter a quantity greater than 0.",lib,web
+"The fewest you may purchase is %1.","The fewest you may purchase is %1.",lib,web
+"The maximum you may purchase is %1.","The maximum you may purchase is %1.",lib,web
+"You can buy this product only in quantities of %1 at a time.","You can buy this product only in quantities of %1 at a time.",lib,web
+"Forbidden extensions has been used. Avoid usage of ","Forbidden extensions has been used. Avoid usage of ",lib,web
+"No marginal white space please","No marginal white space please",lib,web
+"Please enter 6 or more characters. Leading or trailing spaces will be ignored.","Please enter 6 or more characters. Leading or trailing spaces will be ignored.",lib,web
+"Enter valid SKU key","Enter valid SKU key",lib,web
+"Swatch and Admin are the required fields in the each row.","Swatch and Admin are the required fields in the each row.",lib,web
+"Insert Variable","Insert Variable",lib,web
+"Insert Widget","Insert Widget",lib,web
+"The widget %1 is no longer available. Select a different widget.","The widget %1 is no longer available. Select a different widget.",lib,web
+"First character must be letter.","First character must be letter.",lib,web
+"The password can't be the same as the email address. Create a new password and try again.","The password can't be the same as the email address. Create a new password and try again.",lib,web

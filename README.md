@@ -4,6 +4,7 @@ Today I will provide you another helpful document - **Magento 2 Chinese Simplifi
 
 Read more [Magento 2 Chinese Language Pack](https://www.mageplaza.com/magento-2-chinese-language-pack.html)
 
+![Mageplaza Chinese language pack](https://i.imgur.com/qjWPj1W.png)
 
 ## Overview
 

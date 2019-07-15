@@ -16,7 +16,7 @@ Let's me explain the workflow:
 
 - [github_contributions.csv](https://github.com/mageplaza/magento-2-chinese-language-pack/blob/master/github_contributions.csv) has been contributed by Mageplaza and Magento community.
 
-- We will merge `github_contributions.csv` with [zh_CN.csv](https://github.com/mageplaza/magento-2-chinese-language-pack/blob/master/zh_CN.csv). Your Magento 2 store will use this csv file.
+- We will merge `github_contributions.csv` with [zh_Hans_CN.csv](https://github.com/mageplaza/magento-2-chinese-language-pack/blob/master/zh_Hans_CN.csv). Your Magento 2 store will use this csv file.
 
 So, you should contribute to [github_contributions.csv](https://github.com/mageplaza/magento-2-chinese-language-pack/blob/master/github_contributions.csv) file.
 
@@ -37,8 +37,8 @@ The `github_contributions.csv` is saparated **line by line**, see:
 Fom the begining, `github_contributions.csv` is empty, you guys should add more translations into it.
 
 #### Suggestions
-- You can copy any part of `zh_CN.csv` and paste to `github_contributions.csv` then translate it.
-- Please do not copy all lines in `zh_CN.csv`, we will not approve it in this case.
+- You can copy any part of `zh_Hans_CN.csv` and paste to `github_contributions.csv` then translate it.
+- Please do not copy all lines in `zh_Hans_CN.csv`, we will not approve it in this case.
 
 ## Step 3: Contribute
 

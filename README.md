@@ -40,7 +40,7 @@ Install the Chinese language pack via composer is never easier.
 
 ```
 composer require mageplaza/magento-2-chinese-language-pack:dev-master
-php bin/magento setup:static-content:deploy zh_CN
+php bin/magento setup:static-content:deploy zh_Hans_CN
 php bin/magento indexer:reindex
 php bin/magento cache:clean
 php bin/magento cache:flush
@@ -52,7 +52,7 @@ php bin/magento cache:flush
 
 ```
 composer update mageplaza/magento-2-chinese-language-pack:dev-master
-php bin/magento setup:static-content:deploy zh_CN
+php bin/magento setup:static-content:deploy zh_Hans_CN
 php bin/magento indexer:reindex
 php bin/magento cache:clean
 php bin/magento cache:flush
@@ -97,7 +97,7 @@ Your Magento 2 root folder can be: `/home/account_name/yourstore.com/public_html
 unzip master.zip app/i18n/Mageplaza/
 ```
 
-Rename folder `magento-2-chinese-language-pack` to `zh_cn`.
+Rename folder `magento-2-chinese-language-pack` to `zh_hans_cn`.
 
 
 You also can unzip locally and upload them to Magento 2 root folder.
@@ -118,13 +118,13 @@ To download and install Chinese pack manually, you have to access to your server
 
 #### Step 1: Unzip and upload
 
-Unzip the compressed file and upload file `master.zip` into `app/i18n/Mageplaza/zh_cn/`
+Unzip the compressed file and upload file `master.zip` into `app/i18n/Mageplaza/zh_hans_cn/`
 
 See this screenshot:
 
 ![Chinese pack](https://cdn3.mageplaza.com/media/general/language-pack.png)
 
-This language pack code is: **zh_cn**
+This language pack code is: **zh_hans_cn**
 
 #### Step 2: Flush cache
 

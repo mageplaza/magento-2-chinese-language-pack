@@ -3961,7 +3961,7 @@ is now <strong>Active</strong>.,module,Magento_Company
 Once you login, you will be able to place orders on behalf of your company,module,Magento_Company
 and use other B2B features.",module,Magento_Company
 "Your account type has been changed from Company Admin to a regular user account. If you think this is a mistake, please contact your manager for details.","Your account type has been changed from Company Admin to a regular user account. If you think this is a mistake, please contact your manager for details.",module,Magento_Company
-"%name,","%名称，",module,Magento_Company
+"%name,","%name，",module,Magento_Company
 "You have been assigned to %company_name as the Sales Representative.","You have been assigned to %company_name as the Sales Representative.",module,Magento_Company
 "When you sign in to your account, you will be able to:","当您登录到您的帐户时，您将能够:",module,Magento_Company
 "* View and manage company quotes in Admin Panel","* View and manage company quotes in Admin Panel",module,Magento_Company
@@ -5093,7 +5093,7 @@ new products will be created. Use this step to customize images and price for yo
 "Tax/VAT number","增值税/VAT 号码",module,Magento_Customer
 "Phone Number","电话号码",module,Magento_Customer
 "Welcome to %store_name","欢迎光临%store_name",module,Magento_Customer
-"%name,","%名称，",module,Magento_Customer
+"%name,","%name，",module,Magento_Customer
 "Welcome to %store_name.","欢迎来到 %store_name。",module,Magento_Customer
 "To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","如果要登录到我们的网站，请使用这些凭据，在签出期间或在 <a href=""%customer_url""> 我的帐户</a> 页面:",module,Magento_Customer
 "Email:","邮箱：",module,Magento_Customer
@@ -5410,7 +5410,7 @@ Email template chosen based on theme fallback when ""Default"" option is selecte
 "Remove","删除",module,Magento_CustomerBalance
 "Refunded to Store Credit","退还给商店信用",module,Magento_CustomerBalance
 "Store Credit update","存储信贷更新",module,Magento_CustomerBalance
-"%name,","%名称，",module,Magento_CustomerBalance
+"%name,","%name，",module,Magento_CustomerBalance
 "We have updated your <a href=""%store_url"">%store_name</a> account and you have credit that you can use for future purchases.","我们更新了您的 <a href=""%store_url""> %store_name</a> 帐户和你有信用，您可以使用为未来的采购。",module,Magento_CustomerBalance
 "Your Store Credit balance is now %balance.","您的商店信用余额现在是 %balance。",module,Magento_CustomerBalance
 "Store credit","店铺信用",module,Magento_CustomerBalance
@@ -6720,7 +6720,7 @@ Email template chosen based on theme fallback when ""Default"" option is selecte
 "Availability","库存",module,Magento_GiftCard
 "In stock","有货",module,Magento_GiftCard
 "You've been sent a gift from %store_name","%store_name送您一份礼品",module,Magento_GiftCard
-"%name,","%名称，",module,Magento_GiftCard
+"%name,","%name，",module,Magento_GiftCard
 "%sender has sent you a gift card for use at <a href=""%store_url"">%store_name</a> and it is now ready to be used for purchases.","%sender 已经寄给你一张代金卡，用于在 <a href=""%store_url""> %store_name</a> 和它现在是准备用于购买。",module,Magento_GiftCard
 "Gift Card Codes:","代金卡代码:",module,Magento_GiftCard
 "Gift Card Code:","代金卡代码:",module,Magento_GiftCard
@@ -6858,7 +6858,7 @@ Email template chosen based on theme fallback when ""Default"" option is selecte
 "Add or remove gift cards","添加或删除代金卡",module,Magento_GiftCardAccount
 "Gift Card amount applied to order:","代金卡金额适用于订单:",module,Magento_GiftCardAccount
 "You've been sent a gift from %store_name","%store_name送您一份礼品",module,Magento_GiftCardAccount
-"%name,","%名称，",module,Magento_GiftCardAccount
+"%name,","%name，",module,Magento_GiftCardAccount
 "You've been sent a gift card for use at %store_name and it is now ready to be used for purchases.","你送礼物卡，用于在 %store_name 和它现在是准备用于购买。",module,Magento_GiftCardAccount
 "Gift Card Code: %code","代金卡码: %code",module,Magento_GiftCardAccount
 "The card has a balance of %balance and can be used at ","卡有余额 %balance，可以在使用",module,Magento_GiftCardAccount
@@ -7218,7 +7218,7 @@ Email template chosen based on theme fallback when ""Default"" option is selecte
 "Unit Price","单价",module,Magento_GiftRegistry
 "Add to Cart","添加到购物车",module,Magento_GiftRegistry
 "Gift Registry created at %store_name","在 %store_name 上创建的礼品登记",module,Magento_GiftRegistry
-"%name,","%名称，",module,Magento_GiftRegistry
+"%name,","%name，",module,Magento_GiftRegistry
 "You have successfully created the new gift registry ""%registry_name"".","您已成功创建新的礼品登记""%registry_name""。",module,Magento_GiftRegistry
 "Your Gift Registry Message","您的礼物注册表留言",module,Magento_GiftRegistry
 "Now you can add products to your gift registry.","现在你可以将产品添加到您的礼物的注册表。",module,Magento_GiftRegistry
@@ -10046,7 +10046,7 @@ Defines the default product price,module,Magento_PricePermissions
 "Product alerts Cron error","产品警报 Cron 错误",module,Magento_ProductAlert
 "Product alerts cron warnings","产品警报 cron 警告",module,Magento_ProductAlert
 "Products price changed alert","产品价格变化警报",module,Magento_ProductAlert
-"%name,","%名称，",module,Magento_ProductAlert
+"%name,","%name，",module,Magento_ProductAlert
 "Products back in stock alert","产品恢复库存",module,Magento_ProductAlert
 "Product Alerts","产品警报",module,Magento_ProductAlert
 "Allow Alert When Product Price Changes","当产品价格发生更改时，允许警报",module,Magento_ProductAlert
@@ -10650,7 +10650,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Validate error 2","验证错误2",module,Magento_Reminder
 "text","文本",module,Magento_Reminder
 "Promotion reminder at %store_name","%store_name 在促进提醒",module,Magento_Reminder
-"%name,","%名称，",module,Magento_Reminder
+"%name,","%name，",module,Magento_Reminder
 "Hurry up to take advantage of our %promotion_name promotion!","快去接我们的 %promotion_name 促销优势!",module,Magento_Reminder
 "Hurry up to take advantage of this promotion!","快点，以利用此促销活动!",module,Magento_Reminder
 "To take advantage of the promotion you need to sign in at <a href=""%account_url"">%store_name</a> and apply the coupon ""%coupon_code"" in the shopping cart.","要利用促进你需要登录到 <a href=""%account_url"">%store_name</a> 和适用优惠券""%coupon_code""在购物车中。",module,Magento_Reminder
@@ -11273,7 +11273,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Email Notification Settings","电子邮件通知设置",module,Magento_Reward
 "Save Subscription Settings","保存订阅设置",module,Magento_Reward
 "Reward Points Balance Updated at %store_name","积分在 %store_name 更新的平衡",module,Magento_Reward
-"%name,","%名称，",module,Magento_Reward
+"%name,","%name，",module,Magento_Reward
 "You have %points_balance points that may be used in our store:","你有可能在我们的商店使用的 %points_balance 点:",module,Magento_Reward
 "<a href=""%unsubscription_url"">Unsubscribe</a> from these notifications.","从这些通知 <a href=""%unsubscription_url""> 取消订阅</a>。",module,Magento_Reward
 "Reward Points Expiry Warning at %store_name","奖励在 %store_name 点过期警告",module,Magento_Reward
@@ -11655,7 +11655,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "New Comment for RMA #%increment_id","新注释 RMA #%increment_id",module,Magento_Rma
 "Customer %name has left a new comment:","客户 %name 留下新的注释:",module,Magento_Rma
 "%store_name : New Return #%increment_id","%store_name： 新返回 #%increment_id",module,Magento_Rma
-"%name,","%名称，",module,Magento_Rma
+"%name,","%name，",module,Magento_Rma
 "Your return request has been updated. Please see below.","已更新您返回的请求。请参见下文。",module,Magento_Rma
 "You can check the status of your return by <a href=""%account_url"">logging into your account</a> or <a href=""%form_url"">using your order number</a>.","您可以通过 <a href=""%account_url""> 登录到您的帐户</a> 或 <a href=""%form_url""> 使用您的订单号</a> 检查你回来的状态。",module,Magento_Rma
 "If you have any questions, please feel free to contact us at <a href=""mailto:%support_email"">%support_email</a> or by phone at %store_phone","如果您有任何疑问，请随时联系我们在 <a href=""mailto:%support_email""> %support_email</a> 或电话 %store_phone",module,Magento_Rma
@@ -12416,7 +12416,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Add to Cart","添加到购物车",module,Magento_Sales
 "Search","搜索",module,Magento_Sales
 "Credit memo for your %store_name order","更新到您的 %store_name 订单",module,Magento_Sales
-"%name,","%名称，",module,Magento_Sales
+"%name,","%name，",module,Magento_Sales
 "Thank you for your order from %store_name.","谢谢您从%store_name中订购的订单。",module,Magento_Sales
 "You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","通过 <a href=""%account_url""> 登录到您的帐户</a>，可以检查您的订单状态。",module,Magento_Sales
 "If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>","如果您有关于您的订单的问题，你可以通过电子邮件发送我们在 <a href=""mailto:%store_email""> %store_email</a>",module,Magento_Sales
@@ -13245,7 +13245,7 @@ Usage limit enforced for logged in customers only.,module,Magento_SalesRule
 "Send Email","发送邮件",module,Magento_SendFriend
 "Back","返回",module,Magento_SendFriend
 "Welcome, %name","欢迎您，:name",module,Magento_SendFriend
-"%name,","%名称，",module,Magento_SendFriend
+"%name,","%name，",module,Magento_SendFriend
 "%sender_name wants to share this product with you:","%sender_name 想要与你分享这种产品:",module,Magento_SendFriend
 "Message from %sender_name:","消息来自%SENDER_NAME：",module,Magento_SendFriend
 "Email to a Friend","推荐给朋友",module,Magento_SendFriend
@@ -14674,7 +14674,7 @@ than a customer might expect. ","警告税折扣配置可能会导致不同的�
 "Time","时间",module,Magento_Theme
 "Hour","小时",module,Magento_Theme
 "Minute","分钟",module,Magento_Theme
-"%name,","%名称，",module,Magento_Theme
+"%name,","%name，",module,Magento_Theme
 "Welcome to %store_name.","欢迎来到 %store_name。",module,Magento_Theme
 "To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","如果要登录到我们的网站，请使用这些凭据，在签出期间或在 <a href=""%customer_url""> 我的帐户</a> 页面:",module,Magento_Theme
 "Email:","邮箱：",module,Magento_Theme
@@ -15327,7 +15327,7 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Warning!\r\nThis action will remove this user from already assigned role\r\nAre you sure?","警告! \r\nThis 操作将删除此用户从已分配 role\r\nAre 你确定吗?",module,Magento_User
 "Warning!\r\nThis action will remove those users from already assigned roles\r\nAre you sure?","警告! \r\nThis 操作将删除这些用户从已分配 roles\r\nAre 你确定吗?",module,Magento_User
 "Password Reset Confirmation for %name","%name 的密码重置确认",module,Magento_User
-"%name,","%名称，",module,Magento_User
+"%name,","%name，",module,Magento_User
 "There was recently a request to change the password for your account.","最近有一个请求要更改您的帐户密码。",module,Magento_User
 "If you requested this change, reset your password here:","如果您请求更改，请在此处重新设置密码:",module,Magento_User
 "If you did not make this request, you can ignore this email and your password will remain the same.","如果你并没有提出这一请求，您可以忽略这封电子邮件，您的密码将保持不变。",module,Magento_User
@@ -16224,7 +16224,7 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Clear All","全部清除",theme,frontend/Magento/luma
 "Shopping Options","购物的选项",theme,frontend/Magento/luma
 "Welcome to %store_name","欢迎光临%store_name",theme,frontend/Magento/luma
-"%name,","%名称，",theme,frontend/Magento/luma
+"%name,","%name，",theme,frontend/Magento/luma
 "Welcome to %store_name.","欢迎来到 %store_name。",theme,frontend/Magento/luma
 "To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","如果要登录到我们的网站，请使用这些凭据，在签出期间或在 <a href=""%customer_url""> 我的帐户</a> 页面:",theme,frontend/Magento/luma
 "Email:","邮箱：",theme,frontend/Magento/luma

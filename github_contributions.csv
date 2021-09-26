@@ -3221,74 +3221,74 @@
 "ID","ID",module,Magento_CmsStaging
 "Title","标题",module,Magento_CmsStaging
 "Status","状态",module,Magento_CmsStaging
-"Delete Customer","Delete Customer",module,Magento_Company
-"Back","Back",module,Magento_Company
-"Delete Company","Delete Company",module,Magento_Company
-"Reset","Reset",module,Magento_Company
-"Save","Save",module,Magento_Company
-"Save & Close","Save & Close",module,Magento_Company
-"Companies","Companies",module,Magento_Company
-"Add New Company","Add New Company",module,Magento_Company
-"(me)","(me)",module,Magento_Company
-"Company Name:","Company Name:",module,Magento_Company
-"Company Legal Name:","Company Legal Name:",module,Magento_Company
-"Company Email:","Company Email:",module,Magento_Company
-"VAT/TAX ID:","VAT/TAX ID:",module,Magento_Company
-"Re-seller ID:","Re-seller ID:",module,Magento_Company
-"Street Address:","Street Address:",module,Magento_Company
-"City:","City:",module,Magento_Company
-"Country:","Country:",module,Magento_Company
-"State/Province:","State/Province:",module,Magento_Company
-"ZIP/Postal Code:","ZIP/Postal Code:",module,Magento_Company
-"Phone Number:","Phone Number:",module,Magento_Company
-"Job Title:","Job Title:",module,Magento_Company
-"Email Address:","Email Address:",module,Magento_Company
-"Prefix:","Prefix:",module,Magento_Company
-"First Name:","First Name:",module,Magento_Company
-"Middle Name/Initial:","Middle Name/Initial:",module,Magento_Company
-"Last Name:","Last Name:",module,Magento_Company
-"Suffix:","Suffix:",module,Magento_Company
-"Gender:","Gender:",module,Magento_Company
-"Duplicated","Duplicated",module,Magento_Company
-"Company Structure","Company Structure",module,Magento_Company
-"Page not found.","Page not found.",module,Magento_Company
-"Something went wrong.","Something went wrong.",module,Magento_Company
-"New Company","New Company",module,Magento_Company
-"Thank you! We're reviewing your request and will contact you soon","Thank you! We're reviewing your request and will contact you soon",module,Magento_Company
-"An error occurred on the server. Your changes have not been saved.","An error occurred on the server. Your changes have not been saved.",module,Magento_Company
-"Incorrect CAPTCHA","Incorrect CAPTCHA",module,Magento_Company
-"Create New Company","Create New Company",module,Magento_Company
-"A total of %1 record(s) were updated.","A total of %1 record(s) were updated.",module,Magento_Company
-"Something went wrong. Please try again later.","Something went wrong. Please try again later.",module,Magento_Company
-"Invalid value of ""%value"" provided for the email field.","Invalid value of ""%value"" provided for the email field.",module,Magento_Company
-"Invalid value ""%value"" given for the website ID field.","Invalid value ""%value"" given for the website ID field.",module,Magento_Company
-"You have deleted company %companyName.","You have deleted company %companyName.",module,Magento_Company
-"The company no longer exists.","The company no longer exists.",module,Magento_Company
-"The requested company is not found","The requested company is not found",module,Magento_Company
-"Please correct the data sent.","Please correct the data sent.",module,Magento_Company
-"can not be saved","can not be saved",module,Magento_Company
-"A total of %1 record(s) were deleted.","A total of %1 record(s) were deleted.",module,Magento_Company
-"Could not save company","Could not save company",module,Magento_Company
-"You have saved company %companyName.","You have saved company %companyName.",module,Magento_Company
-"You have created company %companyName.","You have created company %companyName.",module,Magento_Company
-"A user with this email address already exists in the system. If you proceed, the user will be linked to your company.","A user with this email address already exists in the system. If you proceed, the user will be linked to your company.",module,Magento_Company
-"A user with this email address is already a member of your company.","A user with this email address is already a member of your company.",module,Magento_Company
-"A user with this email address already exists in the system. Enter a different email address to create this user.","A user with this email address already exists in the system. Enter a different email address to create this user.",module,Magento_Company
-"You are not allowed to do this.","You are not allowed to do this.",module,Magento_Company
-"Cannot create the customer.","Cannot create the customer.",module,Magento_Company
-"The customer was successfully created.","The customer was successfully created.",module,Magento_Company
-"You cannot delete yourself.","You cannot delete yourself.",module,Magento_Company
-"Cannot delete this user.","Cannot delete this user.",module,Magento_Company
-"The customer was successfully deleted.","The customer was successfully deleted.",module,Magento_Company
-"The customer was successfully updated.","The customer was successfully updated.",module,Magento_Company
-"Company Profile","Company Profile",module,Magento_Company
-"The changes you made on the company profile have been successfully saved.","The changes you made on the company profile have been successfully saved.",module,Magento_Company
-"You must fill in all required fields before you can continue.","You must fill in all required fields before you can continue.",module,Magento_Company
-"Bad Request","Bad Request",module,Magento_Company
-"You have deleted role %companyRoleName.","You have deleted role %companyRoleName.",module,Magento_Company
-"Add New Role","Add New Role",module,Magento_Company
-"Edit Role","Edit Role",module,Magento_Company
-"Roles and Permissions","Roles and Permissions",module,Magento_Company
+"Delete Customer","删除客户",module,Magento_Company
+"Back","返回",module,Magento_Company
+"Delete Company","删除公司",module,Magento_Company
+"Reset","重置",module,Magento_Company
+"Save","保持",module,Magento_Company
+"Save & Close","保存并关闭",module,Magento_Company
+"Companies","全部公司",module,Magento_Company
+"Add New Company","添加一个新公司",module,Magento_Company
+"(me)","(我)",module,Magento_Company
+"Company Name:","公司名称:",module,Magento_Company
+"Company Legal Name:","公司法定名称:",module,Magento_Company
+"Company Email:","公司电子邮箱:",module,Magento_Company
+"VAT/TAX ID:","税号:",module,Magento_Company
+"Re-seller ID:","分销商 ID:",module,Magento_Company
+"Street Address:","街道地址:",module,Magento_Company
+"City:","城市:",module,Magento_Company
+"Country:","国家:",module,Magento_Company
+"State/Province:","省/州:",module,Magento_Company
+"ZIP/Postal Code:","邮编e:",module,Magento_Company
+"Phone Number:","电话号码:",module,Magento_Company
+"Job Title:","职位名称:",module,Magento_Company
+"Email Address:","电子邮箱:",module,Magento_Company
+"Prefix:","前缀:",module,Magento_Company
+"First Name:","名:",module,Magento_Company
+"Middle Name/Initial:","中间名:",module,Magento_Company
+"Last Name:","姓:",module,Magento_Company
+"Suffix:","后缀:",module,Magento_Company
+"Gender:","性别:",module,Magento_Company
+"Duplicated","复制",module,Magento_Company
+"Company Structure","企业结构",module,Magento_Company
+"Page not found.","无法找到该页.",module,Magento_Company
+"Something went wrong.","发现未知错误.",module,Magento_Company
+"New Company","新公司",module,Magento_Company
+"Thank you! We're reviewing your request and will contact you soon","谢谢你！我们正在评估你的请求，很快就会与你联系",module,Magento_Company
+"An error occurred on the server. Your changes have not been saved.","服务器上发生错误。您的更改尚未保存.",module,Magento_Company
+"Incorrect CAPTCHA","验证码错误",module,Magento_Company
+"Create New Company","创建新公司",module,Magento_Company
+"A total of %1 record(s) were updated.","总共更新了%1条记录.",module,Magento_Company
+"Something went wrong. Please try again later.","发现未知错误. 请稍后再试.",module,Magento_Company
+"Invalid value of ""%value"" provided for the email field.","所填写 ""%value"" 为无效的电子邮箱.",module,Magento_Company
+"Invalid value ""%value"" given for the website ID field.","所填写 ""%value"" 为无效的 ID .",module,Magento_Company
+"You have deleted company %companyName.","您已经删除了名为 %companyName的公司",module,Magento_Company
+"The company no longer exists.","这家公司已不复存在.",module,Magento_Company
+"The requested company is not found","找不到被请求的公司",module,Magento_Company
+"Please correct the data sent.","请修改发送的数据.",module,Magento_Company
+"can not be saved","无法保存",module,Magento_Company
+"A total of %1 record(s) were deleted.","总共删除了%1条记录.",module,Magento_Company
+"Could not save company","无法保存此公司",module,Magento_Company
+"You have saved company %companyName."," %companyName 已被保存.",module,Magento_Company
+"You have created company %companyName."," %companyName已被创建.",module,Magento_Company
+"A user with this email address already exists in the system. If you proceed, the user will be linked to your company.","系统中已经存在此电子邮件地址的用户。如果继续，用户将链接到您的公司.",module,Magento_Company
+"A user with this email address is already a member of your company.","拥有此电子邮件地址的用户已经是您公司的成员.",module,Magento_Company
+"A user with this email address already exists in the system. Enter a different email address to create this user.","系统中已经存在此电子邮件地址的用户。输入一个不同的电子邮件地址来创建这个用户.",module,Magento_Company
+"You are not allowed to do this.","禁止如此操作.",module,Magento_Company
+"Cannot create the customer.","无法创建此客户.",module,Magento_Company
+"The customer was successfully created.","客户已创建成功.",module,Magento_Company
+"You cannot delete yourself.","无法删除自有账户.",module,Magento_Company
+"Cannot delete this user.","无法删除此用户.",module,Magento_Company
+"The customer was successfully deleted.","删除客户成功.",module,Magento_Company
+"The customer was successfully updated.","更新客户成功.",module,Magento_Company
+"Company Profile","公司简介",module,Magento_Company
+"The changes you made on the company profile have been successfully saved.","您对公司简介所做的更改已成功保存.",module,Magento_Company
+"You must fill in all required fields before you can continue.","在继续之前，您必须填写所有必需的字段.",module,Magento_Company
+"Bad Request","错误请求",module,Magento_Company
+"You have deleted role %companyRoleName.","你删除了 %companyRoleName 的角色.",module,Magento_Company
+"Add New Role","添加新的角色",module,Magento_Company
+"Edit Role","编辑角色",module,Magento_Company
+"Roles and Permissions","角色和权限",module,Magento_Company
 "The tree retrieved successfully.","The tree retrieved successfully.",module,Magento_Company
 "The item was successfully moved.","The item was successfully moved.",module,Magento_Company
 "The team was successfully deleted.","The team was successfully deleted.",module,Magento_Company
